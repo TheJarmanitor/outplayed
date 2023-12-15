@@ -55,18 +55,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Champions League,Manchester United,-,1,3,-,-,2,1,1,-,8,Cristiano Ronaldo
 07/08,Premier League,Manchester United,7,4,5,-,6,1,7,1,-,31,Cristiano Ronaldo
 07/08,FA Cup,Manchester United,-,-,-,-,-,1,2,-,-,3,Cristiano Ronaldo
-06/07,Premier League,Manchester United,2,1,4,-,4,1,5,-,-,17,Cristiano Ronaldo
-06/07,Champions League,Manchester United,1,-,1,-,1,-,-,-,-,3,Cristiano Ronaldo
-06/07,FA Cup,Manchester United,-,1,-,-,-,1,1,-,-,3,Cristiano Ronaldo
-05/06,Premier League,Manchester United,1,1,2,-,-,2,3,-,-,9,Cristiano Ronaldo
-05/06,EFL Cup,Manchester United,1,-,-,-,1,-,-,-,-,2,Cristiano Ronaldo
-05/06,Champions League Qu.,Manchester United,-,-,-,-,-,1,-,-,-,1,Cristiano Ronaldo
-04/05,FA Cup,Manchester United,1,-,-,1,1,-,1,-,-,4,Cristiano Ronaldo
-04/05,Premier League,Manchester United,1,1,-,-,2,-,1,-,-,5,Cristiano Ronaldo
-03/04,FA Cup,Manchester United,-,-,1,-,-,1,-,-,-,2,Cristiano Ronaldo
-03/04,Premier League,Manchester United,1,-,-,-,1,-,2,-,-,4,Cristiano Ronaldo
-02/03,Taça de Portugal,Sporting CP,1,-,-,-,-,1,-,-,-,2,Cristiano Ronaldo
-02/03,Liga Portugal,Sporting CP,-,-,1,-,-,-,1,1,-,3,Cristiano Ronaldo
 2023,MLS,Inter Miami CF,-,-,-,-,-,-,1,-,-,1,Lionel Messi
 2023,Leagues Cup,Inter Miami CF,3,3,-,-,-,1,2,1,-,10,Lionel Messi
 22/23,Ligue 1,Paris Saint-Germain,2,4,1,-,3,2,3,1,-,16,Lionel Messi
@@ -128,14 +116,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,LaLiga,FC Barcelona,1,6,2,-,2,3,8,1,-,23,Lionel Messi
 07/08,LaLiga,FC Barcelona,3,1,1,-,1,1,3,-,-,10,Lionel Messi
 07/08,Champions League,FC Barcelona,-,1,1,-,1,1,2,-,-,6,Lionel Messi
-06/07,LaLiga,FC Barcelona,1,1,5,-,3,-,3,1,-,14,Lionel Messi
-06/07,Copa del Rey,FC Barcelona,-,1,1,-,-,-,-,-,-,2,Lionel Messi
-06/07,Champions League,FC Barcelona,-,-,-,-,-,-,1,-,-,1,Lionel Messi
-05/06,LaLiga,FC Barcelona,-,-,-,-,2,1,3,-,-,6,Lionel Messi
-05/06,Copa del Rey,FC Barcelona,-,-,1,-,-,-,-,-,-,1,Lionel Messi
-05/06,Champions League,FC Barcelona,-,-,1,-,-,-,-,-,-,1,Lionel Messi
-04/05,LaLiga,FC Barcelona,-,-,-,-,-,-,-,1,-,1,Lionel Messi
-04/05,2ª B - Grupo III,FC Barcelona B,2,1,1,-,-,1,1,-,-,6,Lionel Messi
 2019,Emperor's Cup,Sagan Tosu,-,-,-,-,-,-,-,-,1,1,Fernando Torres
 2019,J1 League,Sagan Tosu,-,2,-,-,-,-,-,-,-,2,Fernando Torres
 2018,J1 League,Sagan Tosu,-,-,1,-,-,-,2,-,-,3,Fernando Torres
@@ -175,19 +155,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Premier League,Liverpool FC,3,3,1,-,6,5,5,1,-,24,Fernando Torres
 07/08,Champions League,Liverpool FC,1,1,-,-,-,3,1,-,-,6,Fernando Torres
 07/08,EFL Cup,Liverpool FC,-,-,-,-,1,1,1,-,-,3,Fernando Torres
-06/07,LaLiga,Atlético de Madrid,5,2,1,1,3,2,-,-,-,14,Fernando Torres
-06/07,Copa del Rey,Atlético de Madrid,-,-,-,-,-,1,-,-,-,1,Fernando Torres
-05/06,LaLiga,Atlético de Madrid,3,1,1,-,2,4,2,-,-,13,Fernando Torres
-04/05,LaLiga,Atlético de Madrid,5,2,2,-,3,-,3,1,-,16,Fernando Torres
-04/05,Copa del Rey,Atlético de Madrid,1,-,-,-,-,1,-,-,-,2,Fernando Torres
-04/05,UI Cup,Atlético de Madrid,1,-,1,-,-,-,-,-,-,2,Fernando Torres
-03/04,LaLiga,Atlético de Madrid,2,3,4,-,2,4,5,-,-,20,Fernando Torres
-03/04,Copa del Rey,Atlético de Madrid,1,-,-,-,-,-,-,-,-,1,Fernando Torres
-02/03,LaLiga,Atlético de Madrid,2,-,2,-,4,3,2,-,-,13,Fernando Torres
-02/03,Copa del Rey,Atlético de Madrid,-,1,-,-,-,-,-,-,-,1,Fernando Torres
-01/02,LaLiga2,Atlético de Madrid,-,1,1,-,-,2,2,-,-,6,Fernando Torres
-01/02,Copa del Rey,Atlético de Madrid,1,-,-,-,-,-,-,-,-,1,Fernando Torres
-00/01,LaLiga2,Atlético de Madrid,-,-,-,-,-,-,1,-,-,1,Fernando Torres
 18/19,AFC Champions League,Al-Sadd SC,2,1,-,-,-,-,-,-,,3,Xavi
 18/19,Stars League,Al-Sadd SC,-,-,-,-,2,-,-,-,,2,Xavi
 17/18,AFC Champions League,Al-Sadd SC,1,-,-,-,-,-,-,-,,1,Xavi
@@ -217,19 +184,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,LaLiga,FC Barcelona,2,-,-,-,-,3,2,-,,7,Xavi
 07/08,Champions League,FC Barcelona,1,-,-,-,-,-,-,-,,1,Xavi
 07/08,Copa del Rey,FC Barcelona,-,-,-,-,-,-,-,1,,1,Xavi
-06/07,Copa del Rey,FC Barcelona,-,2,-,-,-,-,-,-,,2,Xavi
-06/07,LaLiga,FC Barcelona,-,1,-,-,1,1,-,-,,3,Xavi
-06/07,Supercopa,FC Barcelona,1,-,-,-,-,-,-,-,,1,Xavi
-04/05,LaLiga,FC Barcelona,-,1,-,-,-,1,1,-,,3,Xavi
-03/04,LaLiga,FC Barcelona,1,-,-,-,-,2,1,-,,4,Xavi
-03/04,UEFA Cup,FC Barcelona,-,-,-,-,-,-,1,-,,1,Xavi
-02/03,Champions League,FC Barcelona,-,-,-,-,-,1,-,-,,1,Xavi
-02/03,LaLiga,FC Barcelona,-,-,1,-,-,1,-,-,,2,Xavi
-01/02,LaLiga,FC Barcelona,-,-,-,-,2,1,1,-,,4,Xavi
-00/01,LaLiga,FC Barcelona,-,-,1,-,-,-,1,-,,2,Xavi
-99/00,Champions League,FC Barcelona,1,-,-,-,-,-,-,-,,1,Xavi
-99/00,Copa del Rey,FC Barcelona,-,-,-,-,-,-,1,-,,1,Xavi
-99/00,2ª B - Grupo III,FC Barcelona B,1,-,-,-,-,-,-,-,,1,Xavi
 98/99,LaLiga,FC Barcelona,-,1,-,-,-,-,-,-,,1,Xavi
 98/99,Supercopa,FC Barcelona,-,1,-,-,-,-,-,-,,1,Xavi
 97/98,2ª B - Grupo III,FC Barcelona B,-,-,-,-,2,-,-,-,,2,Xavi
@@ -261,19 +215,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,UEFA Cup,Zenit St. Petersburg,-,1,1,-,-,1,1,-,-,4,Andrei Arshavin
 07/08,Russian Super Cup,Zenit St. Petersburg,-,-,1,-,-,-,-,-,-,1,Andrei Arshavin
 07/08,Russian Cup,Zenit St. Petersburg,-,-,-,-,-,1,-,-,-,1,Andrei Arshavin
-06/07,Premier Liga,Zenit St. Petersburg,1,1,2,1,1,1,2,1,-,10,Andrei Arshavin
-05/06,Premier Liga,Zenit St. Petersburg,3,1,1,-,-,2,-,-,-,7,Andrei Arshavin
-05/06,UEFA Cup,Zenit St. Petersburg,-,1,-,-,2,-,1,-,-,4,Andrei Arshavin
-05/06,UEFA-Cup Qualifikation,Zenit St. Petersburg,-,-,-,-,-,1,-,-,-,1,Andrei Arshavin
-04/05,Premier Liga,Zenit St. Petersburg,-,2,2,-,3,2,-,-,-,9,Andrei Arshavin
-04/05,Russian Cup,Zenit St. Petersburg,1,-,-,-,-,-,1,-,-,2,Andrei Arshavin
-04/05,UEFA Cup,Zenit St. Petersburg,-,1,3,-,-,-,-,-,-,4,Andrei Arshavin
-03/04,Premier Liga,Zenit St. Petersburg,-,1,4,-,1,-,-,-,-,6,Andrei Arshavin
-02/03,Premier Liga,Zenit St. Petersburg,1,-,2,-,-,1,-,1,-,5,Andrei Arshavin
-02/03,UEFA-Cup Qualifikation,Zenit St. Petersburg,1,-,-,-,1,-,-,-,-,2,Andrei Arshavin
-01/02,Premier Liga,Zenit St. Petersburg,-,-,1,-,3,-,-,-,-,4,Andrei Arshavin
-01/02,Russian Cup,Zenit St. Petersburg,-,-,-,-,-,-,-,-,1,1,Andrei Arshavin
-00/01,Premier Liga,Zenit St. Petersburg,1,-,1,-,-,-,2,-,-,4,Andrei Arshavin
 2019,J1 League,Vissel Kobe,3,2,1,-,3,3,1,-,,13,David Villa
 2018,MLS Cup Playoffs,New York City FC,-,1,-,-,-,-,-,-,,1,David Villa
 2018,MLS,New York City FC,3,1,4,-,2,2,2,-,,14,David Villa
@@ -305,20 +246,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Copa del Rey,Valencia CF,-,-,-,-,-,1,-,-,,1,David Villa
 07/08,Champions League,Valencia CF,1,-,-,-,-,1,-,-,,2,David Villa
 07/08,Champions League Qu.,Valencia CF,-,-,-,-,-,-,1,-,,1,David Villa
-06/07,LaLiga,Valencia CF,4,5,1,-,3,1,1,-,,15,David Villa
-06/07,Champions League,Valencia CF,-,1,2,-,-,1,-,-,,4,David Villa
-06/07,Champions League Qu.,Valencia CF,-,-,1,-,-,-,-,-,,1,David Villa
-05/06,LaLiga,Valencia CF,2,2,5,-,5,4,7,-,,25,David Villa
-05/06,Copa del Rey,Valencia CF,-,-,1,-,-,1,-,-,,2,David Villa
-05/06,UI Cup,Valencia CF,1,-,-,-,-,-,-,-,,1,David Villa
-04/05,LaLiga,Real Zaragoza,2,3,2,-,2,4,2,-,,15,David Villa
-04/05,UEFA Cup,Real Zaragoza,-,-,-,-,1,-,2,-,,3,David Villa
-03/04,LaLiga,Real Zaragoza,-,5,2,-,5,1,1,-,,14,David Villa
-03/04,Copa del Rey,Real Zaragoza,-,-,2,-,-,1,-,1,,4,David Villa
-02/03,LaLiga2,Sporting Gijón,-,1,-,-,2,2,1,-,,6,David Villa
-02/03,Copa del Rey,Sporting Gijón,-,-,-,-,-,1,-,-,,1,David Villa
-01/02,LaLiga2,Sporting Gijón,-,2,1,-,1,1,1,-,,6,David Villa
-01/02,Copa del Rey,Sporting Gijón,-,-,1,-,-,-,1,-,,2,David Villa
 2017,MLS,Orlando City SC,-,1,2,1,-,-,1,1,-,6,Kaká
 2016,MLS,Orlando City SC,1,1,3,-,2,1,-,1,-,9,Kaká
 2015,MLS,Orlando City SC,1,3,-,-,1,2,1,1,-,9,Kaká
@@ -340,18 +267,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Club World Cup,AC Milan,-,-,-,-,-,1,-,-,-,1,Kaká
 07/08,Champions League,AC Milan,-,-,-,-,-,2,-,-,-,2,Kaká
 07/08,UEFA Super Cup,AC Milan,-,-,-,-,-,-,1,-,-,1,Kaká
-06/07,Champions League,AC Milan,2,2,1,-,2,-,2,-,1,10,Kaká
-06/07,Serie A,AC Milan,2,1,2,-,-,-,2,1,-,8,Kaká
-05/06,Serie A,AC Milan,4,2,1,-,1,2,3,1,-,14,Kaká
-05/06,Champions League,AC Milan,-,1,-,-,3,-,1,-,-,5,Kaká
-04/05,Serie A,AC Milan,-,-,1,-,-,3,2,1,-,7,Kaká
-04/05,Champions League,AC Milan,-,-,-,-,1,-,1,-,-,2,Kaká
-03/04,Serie A,AC Milan,1,-,1,-,4,-,4,-,-,10,Kaká
-03/04,Champions League,AC Milan,-,-,2,-,1,-,1,-,-,4,Kaká
-2003,Série A,São Paulo Futebol Clube,-,1,1,-,-,-,-,-,-,2,Kaká
-2002,Série A,São Paulo Futebol Clube,-,2,3,-,1,1,2,-,-,9,Kaká
-2002,Copa do Brasil,São Paulo Futebol Clube,-,-,-,-,-,1,-,-,-,1,Kaká
-2001,Série A,São Paulo Futebol Clube,2,2,1,-,2,3,1,1,-,12,Kaká
 22/23,Serie A,AC Milan,-,-,-,1,-,-,-,-,-,1,Zlatan Ibrahimović
 21/22,Serie A,AC Milan,2,1,-,-,-,3,1,1,-,8,Zlatan Ibrahimović
 20/21,Serie A,AC Milan,4,3,1,-,3,1,2,1,-,15,Zlatan Ibrahimović
@@ -399,21 +314,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Champions League,FC Internazionale,-,-,-,-,-,-,1,-,-,1,Zlatan Ibrahimović
 07/08,Serie A,FC Internazionale,2,4,3,-,2,2,3,1,-,17,Zlatan Ibrahimović
 07/08,Champions League,FC Internazionale,1,-,2,-,-,2,-,-,-,5,Zlatan Ibrahimović
-06/07,Serie A,FC Internazionale,1,1,1,-,3,8,1,-,-,15,Zlatan Ibrahimović
-05/06,Serie A,Juventus FC,1,1,1,-,3,1,-,-,-,7,Zlatan Ibrahimović
-05/06,Champions League,Juventus FC,-,-,1,-,-,-,2,-,-,3,Zlatan Ibrahimović
-04/05,Serie A,Juventus FC,2,1,2,-,2,6,3,-,-,16,Zlatan Ibrahimović
-04/05,Eredivisie,Ajax Amsterdam,1,-,-,-,1,-,1,-,-,3,Zlatan Ibrahimović
-03/04,Eredivisie,Ajax Amsterdam,-,4,1,-,1,5,2,-,-,13,Zlatan Ibrahimović
-03/04,Champions League,Ajax Amsterdam,-,-,-,-,1,-,-,-,-,1,Zlatan Ibrahimović
-03/04,Champions League Qu.,Ajax Amsterdam,1,-,-,-,-,-,-,-,-,1,Zlatan Ibrahimović
-02/03,Eredivisie,Ajax Amsterdam,2,5,-,-,3,2,1,-,-,13,Zlatan Ibrahimović
-02/03,KNVB beker,Ajax Amsterdam,1,-,-,-,1,-,1,-,-,3,Zlatan Ibrahimović
-02/03,Champions League,Ajax Amsterdam,2,-,2,-,-,-,1,-,-,5,Zlatan Ibrahimović
-01/02,KNVB beker,Ajax Amsterdam,-,-,-,-,-,-,-,-,1,1,Zlatan Ibrahimović
-01/02,Eredivisie,Ajax Amsterdam,-,1,-,-,-,3,2,-,-,6,Zlatan Ibrahimović
-01/02,UEFA Cup,Ajax Amsterdam,1,-,-,-,-,1,-,-,-,2,Zlatan Ibrahimović
-2001,Allsvenskan,Malmö FF,-,1,-,-,1,1,-,-,-,3,Zlatan Ibrahimović
 2016,MLS,Los Angeles Galaxy,-,-,-,-,-,1,-,2,,3,Steven Gerrard
 2015,MLS,Los Angeles Galaxy,-,-,1,-,1,-,-,-,,2,Steven Gerrard
 14/15,Premier League,Liverpool FC,-,1,2,-,3,2,1,-,,9,Steven Gerrard
@@ -439,28 +339,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Champions League,Liverpool FC,1,-,-,-,-,1,4,-,,6,Steven Gerrard
 07/08,FA Cup,Liverpool FC,-,-,-,-,1,2,-,-,,3,Steven Gerrard
 07/08,EFL Cup,Liverpool FC,-,-,-,-,-,1,-,-,,1,Steven Gerrard
-06/07,Premier League,Liverpool FC,-,-,-,-,2,4,1,-,,7,Steven Gerrard
-06/07,Champions League,Liverpool FC,-,1,-,-,-,2,-,-,,3,Steven Gerrard
-06/07,EFL Cup,Liverpool FC,-,-,-,-,-,1,-,-,,1,Steven Gerrard
-05/06,FA Cup,Liverpool FC,-,1,1,-,1,-,1,-,,4,Steven Gerrard
-05/06,Premier League,Liverpool FC,1,1,3,-,-,4,1,-,,10,Steven Gerrard
-05/06,Club World Cup,Liverpool FC,-,-,1,-,-,-,-,-,,1,Steven Gerrard
-05/06,EFL Cup,Liverpool FC,-,-,1,-,-,-,-,-,,1,Steven Gerrard
-05/06,Champions League Qu.,Liverpool FC,1,1,-,-,1,-,4,-,,7,Steven Gerrard
-04/05,Champions League,Liverpool FC,-,-,-,-,1,-,1,-,,2,Steven Gerrard
-04/05,Premier League,Liverpool FC,-,2,-,-,3,2,-,-,,7,Steven Gerrard
-04/05,EFL Cup,Liverpool FC,-,-,-,-,1,-,1,-,,2,Steven Gerrard
-04/05,Champions League Qu.,Liverpool FC,-,1,-,-,-,-,1,-,,2,Steven Gerrard
-03/04,Premier League,Liverpool FC,-,-,1,-,1,1,1,-,,4,Steven Gerrard
-03/04,UEFA Cup,Liverpool FC,1,-,-,-,-,1,-,-,,2,Steven Gerrard
-02/03,Premier League,Liverpool FC,1,-,-,-,1,1,2,-,,5,Steven Gerrard
-02/03,EFL Cup,Liverpool FC,-,-,1,-,-,1,-,-,,2,Steven Gerrard
-01/02,Premier League,Liverpool FC,1,-,-,-,2,-,-,-,,3,Steven Gerrard
-01/02,Champions League,Liverpool FC,-,-,-,-,-,1,-,-,,1,Steven Gerrard
-00/01,UEFA Cup,Liverpool FC,-,1,-,-,-,1,-,-,,2,Steven Gerrard
-00/01,Premier League,Liverpool FC,3,1,1,-,2,-,-,-,,7,Steven Gerrard
-00/01,FA Cup,Liverpool FC,-,-,-,-,1,-,-,-,,1,Steven Gerrard
-99/00,Premier League,Liverpool FC,-,-,-,-,-,1,-,-,,1,Steven Gerrard
 2015,NASL Fall Championship,New York Cosmos,-,-,-,-,1,1,-,-,,2,Marcos Senna
 2015,NASL Spring Championship,New York Cosmos,1,-,-,-,-,-,-,-,,1,Marcos Senna
 2014,NASL Fall Championship,New York Cosmos,-,1,-,-,1,1,-,-,,3,Marcos Senna
@@ -478,10 +356,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,LaLiga,Villarreal CF,2,-,2,-,-,-,-,-,,4,Marcos Senna
 07/08,Copa del Rey,Villarreal CF,1,-,-,-,-,-,-,-,,1,Marcos Senna
 07/08,UEFA Cup,Villarreal CF,-,1,-,-,-,-,-,-,,1,Marcos Senna
-05/06,LaLiga,Villarreal CF,-,-,1,-,-,1,1,-,,3,Marcos Senna
-05/06,Champions League,Villarreal CF,-,-,-,-,-,-,1,-,,1,Marcos Senna
-04/05,LaLiga,Villarreal CF,1,-,-,-,-,-,1,-,,2,Marcos Senna
-02/03,LaLiga,Villarreal CF,-,1,-,-,-,1,-,-,,2,Marcos Senna
 19/20,Süper Lig,Kayserispor,-,-,1,-,-,-,1,-,-,2,Emmanuel Adebayor
 18/19,Süper Lig,Basaksehir FK,-,-,-,-,-,-,1,2,-,3,Emmanuel Adebayor
 18/19,Türkiye Kupasi,Basaksehir FK,-,-,1,-,-,-,-,-,-,1,Emmanuel Adebayor
@@ -512,20 +386,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Champions League,Arsenal FC,-,1,-,-,-,-,1,1,-,3,Emmanuel Adebayor
 07/08,FA Cup,Arsenal FC,-,-,-,-,1,-,1,-,-,2,Emmanuel Adebayor
 07/08,EFL Cup,Arsenal FC,-,-,-,-,-,1,-,-,-,1,Emmanuel Adebayor
-06/07,Premier League,Arsenal FC,-,2,-,-,1,1,4,-,-,8,Emmanuel Adebayor
-06/07,FA Cup,Arsenal FC,1,-,-,-,-,-,-,-,1,2,Emmanuel Adebayor
-06/07,EFL Cup,Arsenal FC,-,-,-,-,-,-,2,-,-,2,Emmanuel Adebayor
-05/06,Premier League,Arsenal FC,-,2,2,-,-,-,-,-,-,4,Emmanuel Adebayor
-05/06,UEFA Cup,AS Monaco,-,-,1,-,2,-,-,-,-,3,Emmanuel Adebayor
-05/06,Ligue 1,AS Monaco,-,-,-,-,1,-,-,-,-,1,Emmanuel Adebayor
-04/05,Ligue 1,AS Monaco,1,1,1,-,2,1,3,-,-,9,Emmanuel Adebayor
-04/05,Coupe de la Ligue,AS Monaco,-,-,-,-,1,-,2,-,-,3,Emmanuel Adebayor
-04/05,Champions League,AS Monaco,-,-,-,-,-,-,1,-,-,1,Emmanuel Adebayor
-04/05,Champions League Qu.,AS Monaco,-,-,-,-,-,-,1,-,-,1,Emmanuel Adebayor
-03/04,Ligue 1,AS Monaco,1,2,2,-,2,-,1,-,-,8,Emmanuel Adebayor
-02/03,Ligue 2,FC Metz,1,1,2,-,4,1,4,-,-,13,Emmanuel Adebayor
-02/03,Coupe de la Ligue,FC Metz,-,-,-,-,-,-,2,-,-,2,Emmanuel Adebayor
-01/02,Ligue 1,FC Metz,-,-,-,-,1,1,-,-,-,2,Emmanuel Adebayor
 20/21,Championship,Derby County,-,-,-,-,-,-,1,-,-,1,Wayne Rooney
 19/20,Championship,Derby County,-,1,-,1,1,2,-,-,-,5,Wayne Rooney
 19/20,FA Cup,Derby County,-,-,-,-,-,-,1,-,-,1,Wayne Rooney
@@ -567,18 +427,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Premier League,Manchester United,-,2,3,-,2,2,3,-,-,12,Wayne Rooney
 07/08,Champions League,Manchester United,-,1,-,-,-,2,1,-,-,4,Wayne Rooney
 07/08,FA Cup,Manchester United,-,1,-,-,-,-,1,-,-,2,Wayne Rooney
-06/07,Premier League,Manchester United,2,4,-,-,2,4,2,-,-,14,Wayne Rooney
-06/07,Champions League,Manchester United,-,1,-,-,2,-,-,1,-,4,Wayne Rooney
-06/07,FA Cup,Manchester United,1,1,-,-,-,1,2,-,-,5,Wayne Rooney
-05/06,Premier League,Manchester United,3,1,4,-,5,1,2,-,-,16,Wayne Rooney
-05/06,EFL Cup,Manchester United,-,-,1,-,-,1,-,-,-,2,Wayne Rooney
-05/06,Champions League Qu.,Manchester United,1,-,-,-,-,-,-,-,-,1,Wayne Rooney
-04/05,Premier League,Manchester United,2,1,-,-,2,2,3,1,-,11,Wayne Rooney
-04/05,FA Cup,Manchester United,-,-,-,-,-,1,2,-,-,3,Wayne Rooney
-04/05,Champions League,Manchester United,-,2,-,-,1,-,-,-,-,3,Wayne Rooney
-03/04,Premier League,Everton FC,2,-,1,-,-,4,2,-,-,9,Wayne Rooney
-02/03,Premier League,Everton FC,-,2,-,-,1,-,3,-,-,6,Wayne Rooney
-02/03,EFL Cup,Everton FC,-,-,-,-,-,-,2,-,-,2,Wayne Rooney
 21/22,LaLiga,FC Barcelona,-,-,-,-,-,-,-,1,,1,Sergio Agüero
 20/21,Premier League,Manchester City,-,-,-,-,2,1,1,-,,4,Sergio Agüero
 20/21,Champions League,Manchester City,-,1,-,-,-,-,1,-,,2,Sergio Agüero
@@ -633,12 +481,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Copa del Rey,Atlético de Madrid,-,1,-,-,1,-,-,-,,2,Sergio Agüero
 07/08,UEFA Cup,Atlético de Madrid,2,-,1,-,1,-,1,-,,5,Sergio Agüero
 07/08,UEFA-Cup Qualifikation,Atlético de Madrid,-,-,-,-,-,1,-,-,,1,Sergio Agüero
-06/07,LaLiga,Atlético de Madrid,-,-,-,-,2,3,1,-,,6,Sergio Agüero
-06/07,Copa del Rey,Atlético de Madrid,-,-,-,-,-,-,1,-,,1,Sergio Agüero
-05/06,Torneo Final,CA Independiente,1,-,1,-,4,1,2,-,,9,Sergio Agüero
-05/06,Torneo Inicial,CA Independiente,-,-,2,1,2,1,3,-,,9,Sergio Agüero
-04/05,Torneo Final,CA Independiente,-,-,-,-,2,1,-,-,,3,Sergio Agüero
-04/05,Torneo Inicial,CA Independiente,-,1,-,-,1,-,-,-,,2,Sergio Agüero
 23/24,VL Hessen-Nord,SG Bad Soden,-,1,-,1,1,3,-,-,,6,Frank Lampard
 22/23,VL Hessen-Nord,SG Bad Soden,3,-,1,-,1,3,1,1,,10,Frank Lampard
 21/22,VL Hessen-Nord,SG Bad Soden,1,3,4,-,2,6,9,2,,27,Frank Lampard
@@ -658,9 +500,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Hessenliga,Kickers Offenbach II,2,1,3,-,4,3,3,-,,16,Frank Lampard
 08/09,Hessenliga,Kickers Offenbach II,-,4,-,-,1,1,1,-,,7,Frank Lampard
 07/08,Oberliga Hessen,SV Wehen Wiesbaden II,-,-,-,-,-,1,1,-,,2,Frank Lampard
-06/07,VL Hessen-Mitte,SV Wehen II,-,-,-,-,1,1,-,-,,2,Frank Lampard
-05/06,VL Hessen-Süd,Kickers Offenbach II,-,-,-,-,-,1,-,-,,1,Frank Lampard
-04/05,Regionalliga Süd,Kickers Offenbach,-,-,-,-,1,-,-,-,,1,Frank Lampard
 20/21,Serie A,ACF Fiorentina,-,-,-,-,1,1,-,-,-,2,Franck Ribéry
 19/20,Serie A,ACF Fiorentina,-,1,-,-,-,1,1,-,-,3,Franck Ribéry
 18/19,Bundesliga,Bayern Munich,-,-,1,-,1,1,3,-,-,6,Franck Ribéry
@@ -695,15 +534,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,UEFA Cup,Bayern Munich,-,1,-,-,-,-,2,-,-,3,Franck Ribéry
 07/08,DFB-Pokal,Bayern Munich,-,-,-,-,1,-,-,-,1,2,Franck Ribéry
 07/08,Ligapokal,Bayern Munich,1,-,1,-,1,-,-,-,-,3,Franck Ribéry
-06/07,Ligue 1,Olympique Marseille,1,-,3,-,-,-,1,-,-,5,Franck Ribéry
-06/07,Coupe de France,Olympique Marseille,-,1,-,-,-,-,-,-,-,1,Franck Ribéry
-05/06,Ligue 1,Olympique Marseille,-,1,1,-,1,3,-,-,-,6,Franck Ribéry
-05/06,Coupe de France,Olympique Marseille,1,-,-,-,-,1,1,-,-,3,Franck Ribéry
-05/06,UEFA Cup,Olympique Marseille,-,-,1,-,-,-,-,-,-,1,Franck Ribéry
-05/06,UI Cup,Olympique Marseille,1,-,-,-,-,1,-,-,-,2,Franck Ribéry
-04/05,Türkiye Kupasi,Galatasaray,1,-,-,-,-,-,-,-,-,1,Franck Ribéry
-04/05,Ligue 1,FC Metz,-,-,1,-,-,-,1,-,-,2,Franck Ribéry
-03/04,Coupe de France,Stade Brestois 29,-,1,-,-,-,-,-,-,-,1,Franck Ribéry
 2019,Amir Cup,Qatar SC,-,-,-,-,-,-,1,-,-,1,Samuel Eto'o
 18/19,Stars League,Qatar SC,1,1,2,-,1,1,-,-,-,6,Samuel Eto'o
 17/18,Süper Lig,Konyaspor,2,1,1,-,-,2,-,-,-,6,Samuel Eto'o
@@ -736,27 +566,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,LaLiga,FC Barcelona,3,3,-,-,4,2,3,1,-,16,Samuel Eto'o
 07/08,Copa del Rey,FC Barcelona,-,-,-,-,-,-,1,-,-,1,Samuel Eto'o
 07/08,Champions League,FC Barcelona,-,-,-,-,1,-,-,-,-,1,Samuel Eto'o
-06/07,LaLiga,FC Barcelona,2,3,2,1,2,-,1,-,-,11,Samuel Eto'o
-06/07,Copa del Rey,FC Barcelona,-,-,-,-,-,1,-,-,-,1,Samuel Eto'o
-06/07,Champions League,FC Barcelona,-,-,-,-,1,-,-,-,-,1,Samuel Eto'o
-05/06,LaLiga,FC Barcelona,4,2,6,-,9,3,2,-,-,26,Samuel Eto'o
-05/06,Champions League,FC Barcelona,1,-,1,-,-,1,3,-,-,6,Samuel Eto'o
-05/06,Supercopa,FC Barcelona,1,-,-,-,1,-,-,-,-,2,Samuel Eto'o
-04/05,LaLiga,FC Barcelona,2,7,6,-,3,2,4,1,-,25,Samuel Eto'o
-04/05,Champions League,FC Barcelona,-,1,1,-,-,1,1,-,-,4,Samuel Eto'o
-03/04,LaLiga,RCD Mallorca,2,2,4,-,3,3,2,1,-,17,Samuel Eto'o
-03/04,UEFA Cup,RCD Mallorca,-,1,-,-,-,3,-,-,-,4,Samuel Eto'o
-03/04,Supercopa,RCD Mallorca,-,-,-,-,1,-,-,-,-,1,Samuel Eto'o
-02/03,Copa del Rey,RCD Mallorca,-,1,1,-,-,1,2,-,-,5,Samuel Eto'o
-02/03,LaLiga,RCD Mallorca,3,1,2,-,4,2,2,-,-,14,Samuel Eto'o
-01/02,LaLiga,RCD Mallorca,2,1,2,-,1,-,-,-,-,6,Samuel Eto'o
-01/02,Copa del Rey,RCD Mallorca,1,-,-,-,-,-,-,-,-,1,Samuel Eto'o
-01/02,UEFA Cup,RCD Mallorca,-,-,-,-,-,-,1,-,-,1,Samuel Eto'o
-01/02,Champions League,RCD Mallorca,-,-,-,-,-,1,-,-,-,1,Samuel Eto'o
-01/02,Champions League Qu.,RCD Mallorca,-,1,-,-,-,-,-,-,-,1,Samuel Eto'o
-00/01,LaLiga,RCD Mallorca,3,3,1,-,1,1,2,-,-,11,Samuel Eto'o
-00/01,Copa del Rey,RCD Mallorca,-,1,-,-,-,1,-,-,-,2,Samuel Eto'o
-99/00,LaLiga,RCD Mallorca,2,2,-,-,-,2,-,-,-,6,Samuel Eto'o
 20/21,Coupe de France,AS Monaco,-,-,-,-,-,-,1,-,-,1,Cesc Fàbregas
 20/21,Ligue 1,AS Monaco,-,-,-,-,1,-,1,-,-,2,Cesc Fàbregas
 18/19,Ligue 1,AS Monaco,-,-,-,-,-,1,-,-,-,1,Cesc Fàbregas
@@ -790,14 +599,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Champions League,Arsenal FC,1,1,-,-,1,-,1,-,-,4,Cesc Fàbregas
 07/08,Premier League,Arsenal FC,-,-,1,-,1,1,4,-,-,7,Cesc Fàbregas
 07/08,Champions League Qu.,Arsenal FC,-,-,-,-,-,1,1,-,-,2,Cesc Fàbregas
-06/07,Premier League,Arsenal FC,-,-,-,-,1,1,-,-,-,2,Cesc Fàbregas
-06/07,Champions League Qu.,Arsenal FC,-,-,-,-,-,1,1,-,-,2,Cesc Fàbregas
-05/06,Premier League,Arsenal FC,1,-,1,-,-,-,1,-,-,3,Cesc Fàbregas
-05/06,Champions League,Arsenal FC,-,-,1,-,-,-,-,-,-,1,Cesc Fàbregas
-05/06,Community Shield,Arsenal FC,-,-,-,-,-,1,-,-,-,1,Cesc Fàbregas
-04/05,Premier League,Arsenal FC,-,-,-,-,1,-,1,-,-,2,Cesc Fàbregas
-04/05,Champions League,Arsenal FC,-,1,-,-,-,-,-,-,-,1,Cesc Fàbregas
-03/04,EFL Cup,Arsenal FC,-,-,-,-,-,-,1,-,-,1,Cesc Fàbregas
 11/12,Bundesliga,Bayer 04 Leverkusen,1,-,-,-,1,-,-,-,-,2,Michael Ballack
 11/12,Champions League,Bayer 04 Leverkusen,-,-,-,-,-,-,-,1,-,1,Michael Ballack
 10/11,Europa League,Bayer 04 Leverkusen,-,-,-,-,-,1,-,-,-,1,Michael Ballack
@@ -808,28 +609,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,FA Cup,Chelsea FC,-,1,1,-,1,-,-,-,-,3,Michael Ballack
 07/08,Premier League,Chelsea FC,-,1,2,-,2,-,2,-,-,7,Michael Ballack
 07/08,Champions League,Chelsea FC,2,-,-,-,-,-,-,-,-,2,Michael Ballack
-06/07,FA Cup,Chelsea FC,-,-,-,-,-,-,-,-,1,1,Michael Ballack
-06/07,Premier League,Chelsea FC,-,-,-,1,3,-,-,-,-,4,Michael Ballack
-06/07,Champions League,Chelsea FC,-,-,-,-,-,1,1,-,-,2,Michael Ballack
-05/06,Bundesliga,Bayern Munich,1,2,2,-,5,3,1,-,-,14,Michael Ballack
-05/06,Champions League,Bayern Munich,-,1,-,-,-,-,-,-,-,1,Michael Ballack
-05/06,DFB-Pokal,Bayern Munich,-,-,-,-,-,-,1,-,-,1,Michael Ballack
-04/05,Bundesliga,Bayern Munich,1,6,1,-,-,1,4,-,-,13,Michael Ballack
-04/05,DFB-Pokal,Bayern Munich,1,1,-,-,-,1,-,-,-,3,Michael Ballack
-04/05,Champions League,Bayern Munich,-,-,-,-,-,-,1,1,-,2,Michael Ballack
-04/05,Ligapokal,Bayern Munich,-,-,-,-,-,2,-,-,-,2,Michael Ballack
-03/04,Bundesliga,Bayern Munich,1,1,1,1,1,1,-,1,-,7,Michael Ballack
-03/04,DFB-Pokal,Bayern Munich,1,-,-,1,-,-,-,-,-,2,Michael Ballack
-03/04,Ligapokal,Bayern Munich,-,1,-,-,-,-,1,-,-,2,Michael Ballack
-02/03,DFB-Pokal,Bayern Munich,2,1,-,-,-,1,-,-,-,4,Michael Ballack
-02/03,Bundesliga,Bayern Munich,2,1,2,-,3,1,1,-,-,10,Michael Ballack
-02/03,Champions League Qu.,Bayern Munich,-,1,-,-,-,-,-,-,-,1,Michael Ballack
-01/02,Bundesliga,Bayer 04 Leverkusen,3,1,5,-,3,2,3,-,-,17,Michael Ballack
-01/02,Champions League,Bayer 04 Leverkusen,-,1,1,-,1,2,1,-,-,6,Michael Ballack
-00/01,Bundesliga,Bayer 04 Leverkusen,-,1,-,-,1,3,2,-,-,7,Michael Ballack
-00/01,Champions League,Bayer 04 Leverkusen,-,-,1,-,1,-,-,-,-,2,Michael Ballack
-99/00,Bundesliga,Bayer 04 Leverkusen,-,-,1,-,-,2,-,-,-,3,Michael Ballack
-99/00,UEFA Cup,Bayer 04 Leverkusen,-,1,-,-,-,1,-,-,-,2,Michael Ballack
 98/99,Bundesliga,1.FC Kaiserslautern,2,-,-,-,-,2,-,-,-,4,Michael Ballack
 97/98,RL West-Südwest,1.FC Kaiserslautern II,1,2,2,-,1,-,2,-,-,8,Michael Ballack
 96/97,RL Nord/Ost,Chemnitzer FC,1,3,1,-,4,1,-,-,-,10,Michael Ballack
@@ -872,13 +651,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Supercopa,Real Madrid,-,-,-,-,-,-,1,-,,1,Sergio Ramos
 07/08,LaLiga,Real Madrid,-,2,-,-,-,1,2,-,,5,Sergio Ramos
 07/08,Supercopa,Real Madrid,-,-,-,-,-,-,1,-,,1,Sergio Ramos
-06/07,LaLiga,Real Madrid,2,1,-,-,-,2,-,-,,5,Sergio Ramos
-06/07,Champions League,Real Madrid,1,-,-,-,-,-,-,-,,1,Sergio Ramos
-05/06,LaLiga,Real Madrid,-,-,2,-,-,1,1,-,,4,Sergio Ramos
-05/06,Copa del Rey,Real Madrid,-,-,-,-,-,1,-,-,,1,Sergio Ramos
-05/06,Champions League,Real Madrid,1,-,-,-,-,-,-,-,,1,Sergio Ramos
-04/05,LaLiga,Sevilla FC,-,1,1,-,-,-,-,-,,2,Sergio Ramos
-04/05,UEFA Cup,Sevilla FC,-,-,-,-,-,-,1,-,,1,Sergio Ramos
 14/15,Serie A,Inter Milan,-,-,-,-,-,-,1,-,,1,Nemanja Vidić
 13/14,Champions League,Manchester United,-,-,-,-,1,-,-,-,,1,Nemanja Vidić
 13/14,EFL Cup,Manchester United,-,-,-,-,1,-,-,-,,1,Nemanja Vidić
@@ -890,12 +662,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Club World Cup,Manchester United,-,1,-,-,-,-,-,-,,1,Nemanja Vidić
 08/09,UEFA Super Cup,Manchester United,-,-,-,-,-,1,-,-,,1,Nemanja Vidić
 07/08,Premier League,Manchester United,-,-,-,-,-,-,1,-,,1,Nemanja Vidić
-06/07,Premier League,Manchester United,-,-,-,-,1,2,-,-,,3,Nemanja Vidić
-06/07,Champions League,Manchester United,-,-,-,1,-,-,-,-,,1,Nemanja Vidić
-04/05,Premier Liga,Spartak Moscow,1,-,-,-,-,-,1,-,,2,Nemanja Vidić
-03/04,Premier Liga,Spartak Moscow,-,-,2,-,-,-,-,-,,2,Nemanja Vidić
-03/04,UEFA Cup,Red Star Belgrade,1,-,-,-,-,-,1,-,,2,Nemanja Vidić
-03/04,UEFA-Cup Qualifikation,Red Star Belgrade,-,-,1,-,-,-,-,-,,1,Nemanja Vidić
 2018,USLC Playoffs,Phoenix Rising FC,-,1,-,-,-,1,-,1,-,3,Didier Drogba
 2018,USLC,Phoenix Rising FC,1,-,-,-,-,2,1,-,-,4,Didier Drogba
 2017,USLC Playoffs,Arizona United Soccer Club,-,-,-,-,-,-,-,-,1,1,Didier Drogba
@@ -930,30 +696,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Champions League,Chelsea FC,1,1,1,-,1,1,-,-,1,6,Didier Drogba
 07/08,Premier League,Chelsea FC,2,-,1,-,2,2,1,-,-,8,Didier Drogba
 07/08,EFL Cup,Chelsea FC,-,-,1,-,-,-,-,-,-,1,Didier Drogba
-06/07,FA Cup,Chelsea FC,-,1,-,-,1,-,-,-,1,3,Didier Drogba
-06/07,Premier League,Chelsea FC,3,1,4,1,1,5,4,1,-,20,Didier Drogba
-06/07,Champions League,Chelsea FC,-,-,1,-,3,1,-,1,-,6,Didier Drogba
-06/07,EFL Cup,Chelsea FC,-,1,-,-,-,-,3,-,-,4,Didier Drogba
-05/06,FA Cup,Chelsea FC,-,-,-,-,-,1,-,-,-,1,Didier Drogba
-05/06,Premier League,Chelsea FC,1,2,1,-,2,4,2,-,-,12,Didier Drogba
-05/06,Champions League,Chelsea FC,-,1,-,-,-,-,-,-,-,1,Didier Drogba
-05/06,Community Shield,Chelsea FC,1,-,-,-,1,-,-,-,-,2,Didier Drogba
-04/05,Champions League,Chelsea FC,-,-,1,-,1,-,3,-,-,5,Didier Drogba
-04/05,Premier League,Chelsea FC,2,3,1,-,-,1,3,-,-,10,Didier Drogba
-04/05,EFL Cup,Chelsea FC,-,-,-,-,-,-,-,-,1,1,Didier Drogba
-03/04,UEFA Cup,Olympique Marseille,-,1,1,-,2,-,2,-,-,6,Didier Drogba
-03/04,Ligue 1,Olympique Marseille,6,3,2,-,2,2,4,-,-,19,Didier Drogba
-03/04,Coupe de France,Olympique Marseille,-,-,1,-,-,-,-,-,-,1,Didier Drogba
-03/04,Coupe de la Ligue,Olympique Marseille,-,-,1,-,-,-,-,-,-,1,Didier Drogba
-03/04,Champions League,Olympique Marseille,-,2,-,-,-,2,1,-,-,5,Didier Drogba
-02/03,Ligue 1,EA Guingamp,3,2,2,-,4,4,2,-,-,17,Didier Drogba
-02/03,Coupe de France,EA Guingamp,-,1,3,-,-,-,-,-,-,4,Didier Drogba
-01/02,Ligue 1,EA Guingamp,-,1,-,-,1,1,-,-,-,3,Didier Drogba
-01/02,Ligue 2,Le Mans Union Club 72,-,-,-,-,1,-,4,-,-,5,Didier Drogba
-01/02,Coupe de France,Le Mans Union Club 72,1,-,-,-,-,-,-,-,-,1,Didier Drogba
-01/02,Coupe de la Ligue,Le Mans Union Club 72,-,-,-,-,-,-,1,-,-,1,Didier Drogba
-00/01,Coupe de France,Le Mans Union Club 72,-,-,-,-,-,-,1,-,-,1,Didier Drogba
-99/00,Ligue 2,Le Mans Union Club 72,-,1,1,-,2,1,2,-,-,7,Didier Drogba
 97/98,Eredivisie,Ajax Amsterdam,-,-,-,-,-,-,1,-,,1,Edwin van der Sar
 11/12,LaLiga,Málaga CF,-,-,-,-,-,2,2,-,,4,Ruud van Nistelrooy
 11/12,Copa del Rey,Málaga CF,-,-,1,-,-,-,-,-,,1,Ruud van Nistelrooy
@@ -967,32 +709,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Supercopa,Real Madrid,1,-,-,-,1,1,-,-,,3,Ruud van Nistelrooy
 07/08,LaLiga,Real Madrid,2,3,3,-,2,4,2,-,,16,Ruud van Nistelrooy
 07/08,Champions League,Real Madrid,1,-,-,-,-,3,-,-,,4,Ruud van Nistelrooy
-06/07,LaLiga,Real Madrid,4,4,4,-,7,2,4,-,,25,Ruud van Nistelrooy
-06/07,Champions League,Real Madrid,-,1,1,-,-,1,3,-,,6,Ruud van Nistelrooy
-06/07,Copa del Rey,Real Madrid,-,-,-,-,-,1,1,-,,2,Ruud van Nistelrooy
-05/06,Premier League,Manchester United,2,2,4,-,-,7,6,-,,21,Ruud van Nistelrooy
-05/06,EFL Cup,Manchester United,1,-,-,-,-,-,-,-,,1,Ruud van Nistelrooy
-05/06,Champions League,Manchester United,-,-,-,-,-,-,1,-,,1,Ruud van Nistelrooy
-05/06,Champions League Qu.,Manchester United,-,-,-,-,1,-,-,-,,1,Ruud van Nistelrooy
-04/05,Premier League,Manchester United,1,-,1,-,-,4,-,-,,6,Ruud van Nistelrooy
-04/05,FA Cup,Manchester United,-,1,-,-,1,-,-,-,,2,Ruud van Nistelrooy
-04/05,Champions League,Manchester United,1,1,-,-,4,-,1,1,,8,Ruud van Nistelrooy
-03/04,FA Cup,Manchester United,-,1,-,-,-,3,2,-,,6,Ruud van Nistelrooy
-03/04,Premier League,Manchester United,1,5,6,-,3,1,4,-,,20,Ruud van Nistelrooy
-03/04,Champions League,Manchester United,-,-,1,1,1,1,-,-,,4,Ruud van Nistelrooy
-02/03,Premier League,Manchester United,3,4,6,-,4,3,5,-,,25,Ruud van Nistelrooy
-02/03,Champions League,Manchester United,1,-,3,-,3,4,1,-,,12,Ruud van Nistelrooy
-02/03,FA Cup,Manchester United,1,-,-,-,2,-,1,-,,4,Ruud van Nistelrooy
-02/03,EFL Cup,Manchester United,-,-,-,-,-,-,1,-,,1,Ruud van Nistelrooy
-02/03,Champions League Qu.,Manchester United,1,-,-,-,-,1,-,-,,2,Ruud van Nistelrooy
-01/02,Premier League,Manchester United,2,4,7,-,4,3,3,-,,23,Ruud van Nistelrooy
-01/02,Champions League,Manchester United,1,-,3,-,-,4,-,2,,10,Ruud van Nistelrooy
-01/02,FA Cup,Manchester United,-,-,-,-,-,-,2,-,,2,Ruud van Nistelrooy
-01/02,Community Shield,Manchester United,-,-,-,-,1,-,-,-,,1,Ruud van Nistelrooy
-00/01,KNVB beker,PSV Eindhoven,-,-,1,-,-,-,1,-,,2,Ruud van Nistelrooy
-00/01,Eredivisie,PSV Eindhoven,-,-,-,-,2,-,-,-,,2,Ruud van Nistelrooy
-99/00,Eredivisie,PSV Eindhoven,6,5,3,-,8,1,6,-,,29,Ruud van Nistelrooy
-99/00,Champions League,PSV Eindhoven,-,-,2,-,-,1,-,-,,3,Ruud van Nistelrooy
 98/99,Eredivisie,PSV Eindhoven,5,2,5,-,9,8,2,-,,31,Ruud van Nistelrooy
 98/99,KNVB beker,PSV Eindhoven,-,2,1,-,-,1,-,-,,4,Ruud van Nistelrooy
 98/99,Champions League,PSV Eindhoven,-,2,-,-,-,1,2,-,,5,Ruud van Nistelrooy
@@ -1030,15 +746,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,LaLiga,FC Barcelona,2,-,-,-,-,2,-,-,,4,Andrés Iniesta
 07/08,LaLiga,FC Barcelona,1,1,-,-,1,-,-,-,,3,Andrés Iniesta
 07/08,Champions League,FC Barcelona,1,-,-,-,-,-,-,-,,1,Andrés Iniesta
-06/07,LaLiga,FC Barcelona,-,-,-,-,2,1,3,-,,6,Andrés Iniesta
-06/07,Copa del Rey,FC Barcelona,-,1,-,-,-,-,-,-,,1,Andrés Iniesta
-06/07,Champions League,FC Barcelona,1,-,-,-,-,1,-,-,,2,Andrés Iniesta
-05/06,Champions League,FC Barcelona,-,-,-,-,-,-,1,-,,1,Andrés Iniesta
-04/05,LaLiga,FC Barcelona,1,-,-,-,-,1,-,-,,2,Andrés Iniesta
-03/04,LaLiga,FC Barcelona,-,-,-,-,-,-,1,-,,1,Andrés Iniesta
-03/04,Copa del Rey,FC Barcelona,1,-,-,-,-,-,-,-,,1,Andrés Iniesta
-02/03,2ª B - Grupo III,FC Barcelona B,-,1,-,-,1,1,-,-,,3,Andrés Iniesta
-01/02,2ª B - Grupo II,FC Barcelona B,-,1,-,-,-,-,1,-,,2,Andrés Iniesta
 23/24,Conference League,Fenerbahce,-,-,-,-,1,1,-,-,-,2,Edin Džeko
 23/24,Süper Lig,Fenerbahce,3,1,1,1,-,4,2,-,-,12,Edin Džeko
 23/24,UECL Qualifiers,Fenerbahce,-,-,-,-,-,2,-,-,-,2,Edin Džeko
@@ -1087,8 +794,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,UEFA Cup,VfL Wolfsburg,1,1,1,-,1,-,-,-,-,4,Edin Džeko
 07/08,Bundesliga,VfL Wolfsburg,1,2,-,-,2,-,3,-,-,8,Edin Džeko
 07/08,DFB-Pokal,VfL Wolfsburg,-,-,-,-,-,1,-,-,-,1,Edin Džeko
-06/07,Fortuna Liga,FK Teplice,1,1,3,-,4,2,2,-,-,13,Edin Džeko
-05/06,Fortuna Liga,FK Teplice,1,-,-,-,-,1,1,-,-,3,Edin Džeko
 12/13,Premier League,Manchester United,1,-,-,-,-,-,1,-,-,2,Ryan Giggs
 12/13,FA Cup,Manchester United,1,-,-,-,-,-,-,-,-,1,Ryan Giggs
 12/13,EFL Cup,Manchester United,-,1,-,-,-,-,-,-,1,2,Ryan Giggs
@@ -1106,26 +811,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,EFL Cup,Manchester United,-,-,-,-,-,-,1,-,-,1,Ryan Giggs
 07/08,Premier League,Manchester United,-,-,1,-,-,1,1,-,-,3,Ryan Giggs
 07/08,Community Shield,Manchester United,-,-,1,-,-,-,-,-,-,1,Ryan Giggs
-06/07,Premier League,Manchester United,1,1,-,-,1,-,1,-,-,4,Ryan Giggs
-06/07,Champions League,Manchester United,-,-,-,-,-,1,1,-,-,2,Ryan Giggs
-05/06,Premier League,Manchester United,2,-,-,-,-,-,-,-,-,2,Ryan Giggs
-05/06,FA Cup,Manchester United,-,-,-,-,-,1,-,-,-,1,Ryan Giggs
-05/06,Champions League,Manchester United,-,-,1,-,-,-,-,-,-,1,Ryan Giggs
-04/05,Premier League,Manchester United,1,1,2,-,-,-,1,-,-,5,Ryan Giggs
-04/05,EFL Cup,Manchester United,-,-,-,-,-,1,-,-,-,1,Ryan Giggs
-04/05,Champions League,Manchester United,1,-,-,-,-,-,-,-,-,1,Ryan Giggs
-04/05,Champions League Qu.,Manchester United,-,-,1,-,-,-,-,-,-,1,Ryan Giggs
-03/04,Premier League,Manchester United,-,1,1,-,1,3,1,-,-,7,Ryan Giggs
-03/04,Champions League,Manchester United,-,-,-,-,1,-,-,-,-,1,Ryan Giggs
-02/03,Premier League,Manchester United,1,1,1,-,1,2,2,-,-,8,Ryan Giggs
-02/03,Champions League,Manchester United,2,1,1,-,-,1,-,-,-,5,Ryan Giggs
-02/03,FA Cup,Manchester United,1,1,-,-,-,-,-,-,-,2,Ryan Giggs
-01/02,Champions League,Manchester United,-,-,-,-,-,1,1,-,-,2,Ryan Giggs
-01/02,Premier League,Manchester United,1,1,-,-,3,1,1,-,-,7,Ryan Giggs
-00/01,Premier League,Manchester United,-,1,1,-,-,2,1,-,-,5,Ryan Giggs
-00/01,Champions League,Manchester United,-,-,-,-,1,-,1,-,-,2,Ryan Giggs
-99/00,Premier League,Manchester United,1,2,-,-,1,1,1,-,-,6,Ryan Giggs
-99/00,Champions League,Manchester United,-,-,1,-,-,-,-,-,-,1,Ryan Giggs
 98/99,FA Cup,Manchester United,-,-,-,-,-,-,1,-,1,2,Ryan Giggs
 98/99,Champions League,Manchester United,1,2,-,-,-,-,-,1,-,4,Ryan Giggs
 98/99,Premier League,Manchester United,-,-,1,-,-,1,1,-,-,3,Ryan Giggs
@@ -1163,31 +848,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,LaLiga,FC Barcelona,1,5,3,-,2,-,1,-,,12,Thierry Henry
 07/08,Copa del Rey,FC Barcelona,-,2,1,-,-,1,-,-,,4,Thierry Henry
 07/08,Champions League,FC Barcelona,1,-,-,-,1,-,1,-,,3,Thierry Henry
-06/07,Premier League,Arsenal FC,1,1,1,-,-,4,2,1,,10,Thierry Henry
-06/07,FA Cup,Arsenal FC,-,-,-,-,-,-,1,-,,1,Thierry Henry
-06/07,Champions League,Arsenal FC,-,-,1,-,-,-,-,-,,1,Thierry Henry
-05/06,Premier League,Arsenal FC,-,5,10,-,3,2,7,-,,27,Thierry Henry
-05/06,Champions League,Arsenal FC,-,2,-,-,1,2,-,-,,5,Thierry Henry
-05/06,EFL Cup,Arsenal FC,-,-,-,-,-,1,-,-,,1,Thierry Henry
-04/05,Premier League,Arsenal FC,3,5,5,-,3,4,5,-,,25,Thierry Henry
-04/05,Champions League,Arsenal FC,-,2,1,-,-,2,-,-,,5,Thierry Henry
-03/04,Premier League,Arsenal FC,3,4,8,-,7,2,5,1,,30,Thierry Henry
-03/04,Champions League,Arsenal FC,1,1,1,-,-,-,2,-,,5,Thierry Henry
-03/04,FA Cup,Arsenal FC,-,2,-,-,1,-,-,-,,3,Thierry Henry
-03/04,Community Shield,Arsenal FC,-,1,-,-,-,-,-,-,,1,Thierry Henry
-02/03,Premier League,Arsenal FC,6,1,4,-,3,4,6,-,,24,Thierry Henry
-02/03,Champions League,Arsenal FC,1,1,-,-,1,2,1,1,,7,Thierry Henry
-02/03,FA Cup,Arsenal FC,-,-,-,1,-,-,-,-,,1,Thierry Henry
-01/02,Premier League,Arsenal FC,1,5,5,-,3,4,5,1,,24,Thierry Henry
-01/02,Champions League,Arsenal FC,1,2,1,-,2,-,-,1,,7,Thierry Henry
-01/02,FA Cup,Arsenal FC,1,-,-,-,-,-,-,-,,1,Thierry Henry
-00/01,Premier League,Arsenal FC,1,3,1,-,1,4,7,-,,17,Thierry Henry
-00/01,Champions League,Arsenal FC,1,-,-,-,2,-,1,-,,4,Thierry Henry
-00/01,FA Cup,Arsenal FC,-,-,-,-,1,-,-,-,,1,Thierry Henry
-99/00,Premier League,Arsenal FC,3,3,2,-,4,1,4,-,,17,Thierry Henry
-99/00,UEFA Cup,Arsenal FC,-,2,2,-,1,2,-,-,,7,Thierry Henry
-99/00,EFL Cup,Arsenal FC,-,-,1,-,-,-,-,-,,1,Thierry Henry
-99/00,Champions League,Arsenal FC,-,-,-,-,-,-,1,-,,1,Thierry Henry
 98/99,Serie A,Juventus FC,-,-,1,-,-,1,1,-,,3,Thierry Henry
 98/99,Ligue 1,AS Monaco,-,-,-,-,1,-,-,-,,1,Thierry Henry
 97/98,Champions League,AS Monaco,-,1,1,-,1,1,3,-,,7,Thierry Henry
@@ -1196,7 +856,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 96/97,UEFA Cup,AS Monaco,-,-,-,-,-,-,1,-,,1,Thierry Henry
 95/96,Ligue 1,AS Monaco,-,1,-,-,-,1,1,-,,3,Thierry Henry
 94/95,Ligue 1,AS Monaco,-,1,1,-,-,-,1,-,,3,Thierry Henry
-04/05,Oberliga Nord,VfB Lübeck II,-,1,-,-,1,-,-,-,,2,Luís Fabiano Clemente
 17/18,Hong Kong FA Cup,Kitchee,1,-,-,-,-,-,-,-,-,1,Diego Forlán
 17/18,Hong Kong Premier League,Kitchee,-,1,1,1,1,1,-,-,-,5,Diego Forlán
 15/16,Indian Super League,Mumbai City FC,2,-,-,-,1,1,1,-,-,5,Diego Forlán
@@ -1225,24 +884,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,UEFA Cup,Atlético de Madrid,-,1,1,-,1,-,1,-,-,4,Diego Forlán
 07/08,UEFA-Cup Qualifikation,Atlético de Madrid,-,-,-,-,-,1,-,-,-,1,Diego Forlán
 07/08,UI Cup,Atlético de Madrid,1,-,-,-,-,-,-,-,-,1,Diego Forlán
-06/07,LaLiga,Villarreal CF,2,4,3,-,3,3,3,1,-,19,Diego Forlán
-06/07,Copa del Rey,Villarreal CF,-,1,-,-,-,-,-,-,-,1,Diego Forlán
-06/07,UI Cup,Villarreal CF,-,-,-,-,-,1,-,-,-,1,Diego Forlán
-05/06,LaLiga,Villarreal CF,1,-,4,-,2,1,2,-,-,10,Diego Forlán
-05/06,Champions League,Villarreal CF,1,-,1,-,-,-,-,-,-,2,Diego Forlán
-05/06,Champions League Qu.,Villarreal CF,-,-,-,-,-,-,1,-,-,1,Diego Forlán
-04/05,LaLiga,Villarreal CF,-,7,2,-,7,2,7,-,-,25,Diego Forlán
-03/04,FA Cup,Manchester United,-,-,-,-,-,1,-,-,-,1,Diego Forlán
-03/04,Premier League,Manchester United,-,-,1,1,-,-,1,1,-,4,Diego Forlán
-03/04,Champions League,Manchester United,1,-,-,-,-,-,1,-,-,2,Diego Forlán
-03/04,EFL Cup,Manchester United,-,-,-,-,-,-,-,-,1,1,Diego Forlán
-02/03,Premier League,Manchester United,-,-,1,-,-,2,3,-,-,6,Diego Forlán
-02/03,EFL Cup,Manchester United,-,-,1,-,-,-,1,-,-,2,Diego Forlán
-02/03,Champions League,Manchester United,-,-,-,-,-,-,1,-,-,1,Diego Forlán
-01/02,Torneo Inicial,CA Independiente,-,1,2,-,3,1,4,-,-,11,Diego Forlán
-00/01,Torneo Final,CA Independiente,2,-,-,-,-,-,-,-,-,2,Diego Forlán
-00/01,Torneo Inicial,CA Independiente,2,3,-,-,2,-,2,-,-,9,Diego Forlán
-99/00,Torneo Final,CA Independiente,-,-,-,-,-,-,1,-,-,1,Diego Forlán
 17/18,Ligue 1,Stade Rennais FC,-,-,-,-,-,-,1,-,,1,Yoann Gourcuff
 16/17,Ligue 1,Stade Rennais FC,1,1,-,-,1,1,-,-,,4,Yoann Gourcuff
 15/16,Ligue 1,Stade Rennais FC,1,-,-,-,1,-,-,-,,2,Yoann Gourcuff
@@ -1262,9 +903,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Coupe de la Ligue,FC Girondins Bordeaux,-,-,1,-,-,-,-,-,,1,Yoann Gourcuff
 08/09,Champions League,FC Girondins Bordeaux,1,1,-,-,-,-,-,-,,2,Yoann Gourcuff
 07/08,Serie A,AC Milan,-,-,-,-,-,-,1,-,,1,Yoann Gourcuff
-06/07,Serie A,AC Milan,-,-,1,-,-,-,-,-,,1,Yoann Gourcuff
-06/07,Champions League,AC Milan,-,-,1,-,-,-,-,-,,1,Yoann Gourcuff
-05/06,Ligue 1,Stade Rennais FC,-,3,1,-,2,-,-,-,,6,Yoann Gourcuff
 2017,Série A,Avaí FC,-,1,-,-,-,-,-,-,,1,Maicon
 15/16,Serie A,AS Roma,1,-,-,-,-,-,-,-,,1,Maicon
 14/15,Serie A,AS Roma,-,-,-,-,1,-,-,-,,1,Maicon
@@ -1278,13 +916,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Serie A,FC Internazionale,1,1,1,-,-,-,1,-,,4,Maicon
 08/09,Champions League,FC Internazionale,1,-,-,-,-,-,-,-,,1,Maicon
 07/08,Serie A,FC Internazionale,-,-,1,-,-,-,-,-,,1,Maicon
-06/07,Serie A,FC Internazionale,-,-,-,-,1,1,-,-,,2,Maicon
-06/07,Champions League,FC Internazionale,-,-,-,-,-,-,1,-,,1,Maicon
-05/06,Ligue 1,AS Monaco,-,-,-,-,-,-,-,1,,1,Maicon
-05/06,UEFA Cup,AS Monaco,-,-,-,-,1,-,-,-,,1,Maicon
-04/05,Ligue 1,AS Monaco,-,2,2,-,-,-,-,-,,4,Maicon
-04/05,Champions League,AS Monaco,-,-,-,-,1,-,-,-,,1,Maicon
-2004,Libertadores,Cruzeiro Esporte Clube,-,-,-,-,-,-,1,-,,1,Maicon
 2022,Série A,CR Flamengo,-,1,-,-,-,-,-,-,-,1,Diego Ribas da Cunha
 2022,Carioca - Taça Guanabara,CR Flamengo,-,-,-,-,-,-,1,-,-,1,Diego Ribas da Cunha
 2021,Carioca - Taça Guanabara,CR Flamengo,-,-,1,-,-,-,-,-,-,1,Diego Ribas da Cunha
@@ -1321,17 +952,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,DFB-Pokal,SV Werder Bremen,-,-,-,-,-,-,1,-,-,1,Diego Ribas da Cunha
 07/08,Champions League,SV Werder Bremen,-,-,-,-,-,-,1,-,-,1,Diego Ribas da Cunha
 07/08,Champions League Qu.,SV Werder Bremen,1,-,-,-,-,1,-,-,-,2,Diego Ribas da Cunha
-06/07,Bundesliga,SV Werder Bremen,1,3,2,-,1,-,4,2,-,13,Diego Ribas da Cunha
-06/07,UEFA Cup,SV Werder Bremen,-,-,-,-,-,-,1,-,-,1,Diego Ribas da Cunha
-06/07,Champions League,SV Werder Bremen,-,-,-,-,-,1,-,-,-,1,Diego Ribas da Cunha
-05/06,Liga Portugal,FC Porto,-,-,-,-,-,-,-,1,-,1,Diego Ribas da Cunha
-05/06,Champions League,FC Porto,-,-,1,-,-,-,-,-,-,1,Diego Ribas da Cunha
-04/05,Liga Portugal,FC Porto,1,-,1,-,-,-,1,-,-,3,Diego Ribas da Cunha
-04/05,Champions League,FC Porto,-,-,-,-,-,1,-,-,-,1,Diego Ribas da Cunha
-2004,Série A,Santos FC,-,1,-,-,1,2,-,-,-,4,Diego Ribas da Cunha
-2004,Libertadores,Santos FC,1,1,-,-,1,1,-,-,-,4,Diego Ribas da Cunha
-2003,Libertadores,Santos FC,1,-,1,-,1,-,1,-,-,4,Diego Ribas da Cunha
-2002,Série A,Santos FC,-,-,-,-,-,1,1,-,-,2,Diego Ribas da Cunha
 17/18,Championship,Aston Villa,-,1,-,-,-,-,-,-,,1,John Terry
 16/17,Premier League,Chelsea FC,-,1,-,-,-,-,-,-,,1,John Terry
 15/16,Premier League,Chelsea FC,-,-,-,-,-,-,-,1,,1,John Terry
@@ -1351,23 +971,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Premier League,Chelsea FC,-,1,-,-,-,-,-,-,,1,John Terry
 08/09,Champions League,Chelsea FC,-,-,-,-,-,1,1,-,,2,John Terry
 07/08,Premier League,Chelsea FC,1,-,-,-,-,-,-,-,,1,John Terry
-06/07,Premier League,Chelsea FC,1,-,-,-,-,-,-,-,,1,John Terry
-05/06,Premier League,Chelsea FC,-,-,1,-,1,2,-,-,,4,John Terry
-05/06,FA Cup,Chelsea FC,1,-,-,-,-,1,-,-,,2,John Terry
-05/06,EFL Cup,Chelsea FC,-,-,1,-,-,-,-,-,,1,John Terry
-04/05,Champions League,Chelsea FC,1,1,-,-,-,1,1,-,,4,John Terry
-04/05,FA Cup,Chelsea FC,-,-,-,-,-,-,1,-,,1,John Terry
-04/05,Premier League,Chelsea FC,-,1,-,-,2,-,-,-,,3,John Terry
-03/04,Premier League,Chelsea FC,1,-,-,-,-,1,-,-,,2,John Terry
-03/04,FA Cup,Chelsea FC,1,-,-,-,-,-,-,-,,1,John Terry
-02/03,Premier League,Chelsea FC,-,-,2,-,-,-,1,-,,3,John Terry
-02/03,FA Cup,Chelsea FC,1,-,-,-,-,-,1,-,,2,John Terry
-02/03,UEFA Cup,Chelsea FC,-,-,-,-,-,1,-,-,,1,John Terry
-01/02,FA Cup,Chelsea FC,-,-,1,-,-,-,1,-,,2,John Terry
-01/02,Premier League,Chelsea FC,-,-,-,-,1,-,-,-,,1,John Terry
-01/02,UEFA Cup,Chelsea FC,-,-,1,-,-,-,-,-,,1,John Terry
-00/01,Premier League,Chelsea FC,-,-,-,-,-,1,-,-,,1,John Terry
-99/00,FA Cup,Chelsea FC,-,-,-,-,1,-,-,-,,1,John Terry
 2019,League One,Qingdao Huanghai,-,1,-,-,-,1,-,-,,2,Yaya Touré
 16/17,Premier League,Manchester City,-,-,1,-,1,2,1,-,,5,Yaya Touré
 16/17,FA Cup,Manchester City,-,-,1,-,-,-,-,1,,2,Yaya Touré
@@ -1394,13 +997,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,LaLiga,FC Barcelona,-,-,-,-,-,1,1,-,,2,Yaya Touré
 07/08,Champions League,FC Barcelona,-,-,1,-,-,-,-,-,,1,Yaya Touré
 07/08,LaLiga,FC Barcelona,-,-,-,-,-,1,-,-,,1,Yaya Touré
-06/07,Ligue 1,AS Monaco,2,-,1,-,-,-,2,-,,5,Yaya Touré
-05/06,Super League 1,Olympiacos Piraeus,1,-,-,-,2,-,-,-,,3,Yaya Touré
-04/05,Premier Liga,Metalurg Donetsk (- 2015),1,-,-,-,-,1,-,-,,2,Yaya Touré
-04/05,Ukrainian Cup,Metalurg Donetsk (- 2015),-,1,-,-,-,-,-,-,,1,Yaya Touré
-04/05,UEFA-Cup Qualifikation,Metalurg Donetsk (- 2015),-,1,-,-,-,-,-,-,,1,Yaya Touré
-03/04,Premier Liga,Metalurg Donetsk (- 2015),1,-,-,-,-,-,-,-,,1,Yaya Touré
-02/03,Jupiler Pro League,KSK Beveren (- 2010),-,-,1,-,1,-,-,1,,3,Yaya Touré
 18/19,QSC,Al-Gharafa SC,-,-,-,-,-,1,-,-,,1,Wesley Sneijder
 18/19,Stars League,Al-Gharafa SC,1,1,1,1,1,-,1,-,,6,Wesley Sneijder
 17/18,Stars League,Al-Gharafa SC,1,5,1,-,-,1,1,-,,9,Wesley Sneijder
@@ -1427,23 +1023,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Italy Cup,FC Internazionale,-,-,-,-,1,-,-,-,,1,Wesley Sneijder
 08/09,LaLiga,Real Madrid,1,-,1,-,-,-,-,-,,2,Wesley Sneijder
 07/08,LaLiga,Real Madrid,-,-,1,-,3,4,1,-,,9,Wesley Sneijder
-06/07,Play-Offs Conference League,Ajax Amsterdam,1,-,-,-,-,-,-,-,,1,Wesley Sneijder
-06/07,Eredivisie,Ajax Amsterdam,3,4,4,-,1,2,4,-,,18,Wesley Sneijder
-06/07,KNVB beker,Ajax Amsterdam,1,-,-,-,-,-,-,-,,1,Wesley Sneijder
-06/07,UEFA Cup,Ajax Amsterdam,-,-,-,-,-,1,-,-,,1,Wesley Sneijder
-06/07,Johan Cruijff Schaal,Ajax Amsterdam,-,-,-,-,-,-,1,-,,1,Wesley Sneijder
-05/06,Play-Offs Conference League,Ajax Amsterdam,-,-,-,-,-,-,1,-,,1,Wesley Sneijder
-05/06,KNVB beker,Ajax Amsterdam,1,-,-,-,-,1,-,-,,2,Wesley Sneijder
-05/06,Eredivisie,Ajax Amsterdam,1,1,1,-,1,-,1,-,,5,Wesley Sneijder
-05/06,Champions League,Ajax Amsterdam,-,1,-,-,-,-,-,1,,2,Wesley Sneijder
-05/06,Champions League Qu.,Ajax Amsterdam,-,-,-,-,-,-,2,-,,2,Wesley Sneijder
-04/05,Eredivisie,Ajax Amsterdam,2,-,1,-,2,2,-,-,,7,Wesley Sneijder
-04/05,KNVB beker,Ajax Amsterdam,-,-,-,-,1,-,-,-,,1,Wesley Sneijder
-04/05,Johan Cruijff Schaal,Ajax Amsterdam,-,-,-,-,-,-,1,-,,1,Wesley Sneijder
-03/04,Eredivisie,Ajax Amsterdam,1,1,2,-,3,-,2,-,,9,Wesley Sneijder
-03/04,Champions League Qu.,Ajax Amsterdam,-,-,-,-,-,-,1,-,,1,Wesley Sneijder
-02/03,Eredivisie,Ajax Amsterdam,-,2,1,-,-,1,-,-,,4,Wesley Sneijder
-02/03,KNVB beker,Ajax Amsterdam,-,-,1,-,-,-,-,-,,1,Wesley Sneijder
 16/17,Bundesliga,Bayern Munich,1,1,-,-,1,-,-,-,,3,Xabi Alonso
 15/16,Champions League,Bayern Munich,-,-,1,-,-,-,-,-,,1,Xabi Alonso
 15/16,DFB-Pokal,Bayern Munich,-,-,1,-,-,-,-,-,,1,Xabi Alonso
@@ -1456,15 +1035,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Premier League,Liverpool FC,-,-,1,-,-,1,1,-,,3,Xabi Alonso
 08/09,Champions League,Liverpool FC,-,1,-,-,-,-,-,-,,1,Xabi Alonso
 07/08,Premier League,Liverpool FC,-,1,-,-,-,1,-,-,,2,Xabi Alonso
-06/07,Premier League,Liverpool FC,1,-,-,-,-,1,2,-,,4,Xabi Alonso
-05/06,FA Cup,Liverpool FC,-,-,-,-,-,1,-,1,,2,Xabi Alonso
-05/06,Premier League,Liverpool FC,-,2,-,-,-,-,1,-,,3,Xabi Alonso
-04/05,Champions League,Liverpool FC,-,-,-,-,1,-,-,-,,1,Xabi Alonso
-04/05,Premier League,Liverpool FC,-,-,1,-,-,-,1,-,,2,Xabi Alonso
-03/04,LaLiga,Real Sociedad,-,-,-,-,1,1,-,-,,2,Xabi Alonso
-03/04,Champions League,Real Sociedad,-,-,-,-,-,1,-,-,,1,Xabi Alonso
-02/03,LaLiga,Real Sociedad,-,-,3,-,-,-,-,-,,3,Xabi Alonso
-01/02,LaLiga,Real Sociedad,1,-,2,-,-,-,-,-,,3,Xabi Alonso
 13/14,LaLiga,FC Barcelona,-,-,-,-,-,-,1,-,,1,Carles Puyol
 13/14,Copa del Rey,FC Barcelona,-,-,1,-,-,-,-,-,,1,Carles Puyol
 12/13,Copa del Rey,FC Barcelona,-,1,-,-,-,-,-,-,,1,Carles Puyol
@@ -1475,10 +1045,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,LaLiga,FC Barcelona,-,-,1,-,-,-,-,-,,1,Carles Puyol
 08/09,LaLiga,FC Barcelona,-,1,-,-,-,-,-,-,,1,Carles Puyol
 07/08,Champions League,FC Barcelona,-,-,-,-,1,-,-,-,,1,Carles Puyol
-06/07,LaLiga,FC Barcelona,-,1,1,-,-,-,-,-,,2,Carles Puyol
-06/07,Champions League,FC Barcelona,-,-,-,-,1,-,-,-,,1,Carles Puyol
-05/06,LaLiga,FC Barcelona,-,-,-,-,-,1,-,-,,1,Carles Puyol
-01/02,LaLiga,FC Barcelona,1,1,-,-,-,-,-,-,,2,Carles Puyol
 98/99,LaLiga2,FC Barcelona B,-,-,-,-,1,1,-,-,,2,Carles Puyol
 97/98,Promoción LaLiga2,FC Barcelona B,-,2,-,-,-,-,-,-,,2,Carles Puyol
 97/98,2ª B - Grupo III,FC Barcelona B,-,-,-,-,1,-,-,-,,1,Carles Puyol
@@ -1513,8 +1079,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Bundesliga,SV Werder Bremen,1,-,-,-,1,-,1,-,,3,Mesut Özil
 07/08,Bundesliga,SV Werder Bremen,-,1,-,-,-,-,-,-,,1,Mesut Özil
 07/08,DFB-Pokal,FC Schalke 04,-,-,-,-,1,-,-,-,,1,Mesut Özil
-06/07,U19-Bundesliga West,FC Schalke 04 U19,-,-,-,-,-,2,1,-,,3,Mesut Özil
-05/06,U19-Bundesliga West,FC Schalke 04 U19,-,2,1,-,1,2,8,-,,14,Mesut Özil
 18/19,Bundesliga,Bayern Munich,-,1,-,-,1,-,1,1,-,4,Arjen Robben
 18/19,Champions League,Bayern Munich,1,1,-,-,-,-,-,-,-,2,Arjen Robben
 17/18,Bundesliga,Bayern Munich,-,2,1,-,1,1,-,-,-,5,Arjen Robben
@@ -1546,21 +1110,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Champions League,Real Madrid,-,-,-,-,1,-,-,-,-,1,Arjen Robben
 07/08,LaLiga,Real Madrid,-,1,1,-,-,1,1,-,-,4,Arjen Robben
 07/08,Copa del Rey,Real Madrid,-,1,-,-,-,-,-,-,-,1,Arjen Robben
-06/07,Champions League,Chelsea FC,-,-,-,-,1,-,-,-,-,1,Arjen Robben
-06/07,Premier League,Chelsea FC,-,-,-,-,-,1,-,1,-,2,Arjen Robben
-05/06,Premier League,Chelsea FC,1,-,2,-,1,1,1,-,-,6,Arjen Robben
-05/06,FA Cup,Chelsea FC,-,1,-,-,-,-,-,-,-,1,Arjen Robben
-04/05,Premier League,Chelsea FC,1,1,1,-,1,1,2,-,-,7,Arjen Robben
-04/05,EFL Cup,Chelsea FC,-,-,-,-,-,-,-,-,1,1,Arjen Robben
-04/05,Champions League,Chelsea FC,-,1,-,-,-,-,-,-,-,1,Arjen Robben
-03/04,Eredivisie,PSV Eindhoven,-,-,1,-,1,1,2,-,-,5,Arjen Robben
-03/04,Champions League,PSV Eindhoven,-,-,-,-,1,1,-,-,-,2,Arjen Robben
-03/04,Johan Cruijff Schaal,PSV Eindhoven,1,-,-,-,-,-,-,-,-,1,Arjen Robben
-02/03,Eredivisie,PSV Eindhoven,1,-,5,-,3,-,3,-,-,12,Arjen Robben
-02/03,Champions League,PSV Eindhoven,-,-,-,-,-,1,-,-,-,1,Arjen Robben
-01/02,Eredivisie,FC Groningen,1,-,1,-,1,1,2,-,-,6,Arjen Robben
-01/02,KNVB beker,FC Groningen,-,-,-,-,2,1,1,-,-,4,Arjen Robben
-00/01,Eredivisie,FC Groningen,2,-,-,-,-,-,-,-,-,2,Arjen Robben
 23/24,DFB-Pokal,Bayern Munich,-,1,-,-,-,-,-,-,-,1,Thomas Müller
 23/24,Bundesliga,Bayern Munich,-,-,-,-,-,1,-,-,-,1,Thomas Müller
 22/23,Bundesliga,Bayern Munich,-,4,2,-,-,-,1,-,-,7,Thomas Müller
@@ -1610,8 +1159,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Champions League,Bayern Munich,-,-,-,-,-,-,1,-,-,1,Thomas Müller
 07/08,U19-Bundesliga S/SW,FC Bayern Munich U19 ,2,3,3,-,-,5,5,-,-,18,Thomas Müller
 07/08,Regionalliga Süd,FC Bayern Munich II,-,-,-,-,-,-,1,-,-,1,Thomas Müller
-06/07,U19-Bundesliga Endrunde,FC Bayern Munich U19 ,1,1,-,-,-,-,-,-,-,2,Thomas Müller
-06/07,U19-Bundesliga S/SW,FC Bayern Munich U19 ,-,3,1,-,-,1,1,-,-,6,Thomas Müller
 2019,MLS,Chicago Fire,-,-,-,-,-,-,1,-,,1,Bastian Schweinsteiger
 2018,MLS,Chicago Fire,-,-,-,-,1,2,-,1,,4,Bastian Schweinsteiger
 2017,MLS,Chicago Fire,-,1,1,-,1,-,-,-,,3,Bastian Schweinsteiger
@@ -1636,15 +1183,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,DFB-Pokal,Bayern Munich,1,-,-,-,1,-,-,-,,2,Bastian Schweinsteiger
 07/08,Bundesliga,Bayern Munich,-,-,-,-,-,-,1,-,,1,Bastian Schweinsteiger
 07/08,Ligapokal,Bayern Munich,-,1,-,-,-,-,-,-,,1,Bastian Schweinsteiger
-06/07,Bundesliga,Bayern Munich,-,-,1,-,1,2,-,-,,4,Bastian Schweinsteiger
-06/07,Champions League,Bayern Munich,-,1,-,-,-,1,-,-,,2,Bastian Schweinsteiger
-05/06,Bundesliga,Bayern Munich,1,-,-,-,2,-,-,-,,3,Bastian Schweinsteiger
-04/05,Champions League,Bayern Munich,-,-,-,-,1,-,-,-,,1,Bastian Schweinsteiger
-04/05,Bundesliga,Bayern Munich,-,1,-,-,1,1,-,-,,3,Bastian Schweinsteiger
-03/04,Bundesliga,Bayern Munich,-,-,-,-,2,1,1,-,,4,Bastian Schweinsteiger
-02/03,Regionalliga Süd,FC Bayern Munich II,-,-,-,-,1,-,1,-,,2,Bastian Schweinsteiger
-02/03,DFB-Pokal,Bayern Munich,-,-,1,-,1,-,-,-,,2,Bastian Schweinsteiger
-00/01,U17-Bundesliga Endrunde,FC Bayern Munich U17 ,-,-,-,-,-,1,-,-,,1,Bastian Schweinsteiger
 19/20,Indian Super League,NorthEast United FC,-,-,1,-,2,-,1,-,,4,Asamoah Gyan
 18/19,Süper Lig,Kayserispor,-,-,-,-,-,2,1,1,,4,Asamoah Gyan
 18/19,Türkiye Kupasi,Kayserispor,1,-,-,-,-,-,-,-,,1,Asamoah Gyan
@@ -1667,9 +1205,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Ligue 1,Stade Rennais FC,3,-,3,1,1,1,2,2,,13,Asamoah Gyan
 08/09,Ligue 1,Stade Rennais FC,-,-,-,-,-,1,-,-,,1,Asamoah Gyan
 07/08,Serie A,Udinese Calcio,-,-,-,-,1,1,1,-,,3,Asamoah Gyan
-06/07,Serie A,Udinese Calcio,1,2,2,-,-,3,-,-,,8,Asamoah Gyan
-05/06,Serie B,Modena FC,-,1,2,-,1,-,2,2,,8,Asamoah Gyan
-04/05,Serie B,Modena FC,1,1,-,-,1,1,1,2,,7,Asamoah Gyan
 15/16,Serie A,SS Lazio,3,-,-,-,-,3,-,1,-,7,Miroslav Klose
 15/16,Europa League,SS Lazio,-,-,-,-,-,1,-,-,-,1,Miroslav Klose
 14/15,Serie A,SS Lazio,1,2,3,-,2,2,3,-,-,13,Miroslav Klose
@@ -1695,24 +1230,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,UEFA Cup,Bayern Munich,-,2,-,-,1,1,1,-,-,5,Miroslav Klose
 07/08,Bundesliga,Bayern Munich,1,1,1,-,2,3,2,-,-,10,Miroslav Klose
 07/08,Ligapokal,Bayern Munich,-,1,-,-,-,-,-,-,-,1,Miroslav Klose
-06/07,Bundesliga,SV Werder Bremen,2,5,3,-,1,-,2,-,-,13,Miroslav Klose
-06/07,UEFA Cup,SV Werder Bremen,-,-,1,-,-,1,-,-,-,2,Miroslav Klose
-05/06,Bundesliga,SV Werder Bremen,3,2,5,-,5,6,3,1,-,25,Miroslav Klose
-05/06,Champions League,SV Werder Bremen,1,-,1,-,1,-,-,-,-,3,Miroslav Klose
-05/06,DFB-Pokal,SV Werder Bremen,-,-,-,-,-,-,1,-,1,2,Miroslav Klose
-05/06,Champions League Qu.,SV Werder Bremen,-,-,-,-,-,1,-,-,-,1,Miroslav Klose
-04/05,Bundesliga,SV Werder Bremen,1,3,2,-,1,2,6,-,-,15,Miroslav Klose
-04/05,Champions League,SV Werder Bremen,-,-,1,-,1,-,-,-,-,2,Miroslav Klose
-03/04,Bundesliga,1.FC Kaiserslautern,-,-,1,-,3,2,3,1,-,10,Miroslav Klose
-03/04,UEFA Cup,1.FC Kaiserslautern,-,-,-,-,1,-,-,-,-,1,Miroslav Klose
-03/04,DFB-Pokal,1.FC Kaiserslautern,-,-,-,-,-,1,-,-,-,1,Miroslav Klose
-02/03,DFB-Pokal,1.FC Kaiserslautern,-,-,-,-,2,-,2,-,-,4,Miroslav Klose
-02/03,Bundesliga,1.FC Kaiserslautern,-,2,2,-,2,2,1,-,-,9,Miroslav Klose
-01/02,Bundesliga,1.FC Kaiserslautern,-,1,2,1,5,4,3,-,-,16,Miroslav Klose
-00/01,Bundesliga,1.FC Kaiserslautern,-,1,2,-,-,2,4,-,-,9,Miroslav Klose
-00/01,UEFA Cup,1.FC Kaiserslautern,2,-,-,-,-,-,-,-,-,2,Miroslav Klose
-00/01,Oberliga Südwest (- 07/08),1.FC Kaiserslautern II,2,1,4,-,4,2,2,-,-,15,Miroslav Klose
-99/00,RL West-Südwest,1.FC Kaiserslautern II,-,2,2,-,2,4,1,-,-,11,Miroslav Klose
 98/99,RL West-Südwest,FC 08 Homburg,-,1,-,-,-,-,-,-,-,1,Miroslav Klose
 16/17,DFB-Pokal,Bayern Munich,1,-,-,-,-,-,-,-,,1,Philipp Lahm
 16/17,Bundesliga,Bayern Munich,-,-,-,-,-,1,-,-,,1,Philipp Lahm
@@ -1724,12 +1241,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Bundesliga,Bayern Munich,-,-,-,-,3,-,-,-,,3,Philipp Lahm
 08/09,DFB-Pokal,Bayern Munich,1,-,-,-,-,-,-,-,,1,Philipp Lahm
 07/08,UEFA Cup,Bayern Munich,-,-,-,-,-,-,1,-,,1,Philipp Lahm
-06/07,Bundesliga,Bayern Munich,-,-,-,-,-,1,-,-,,1,Philipp Lahm
-04/05,UEFA Cup,VfB Stuttgart,-,-,-,-,-,-,1,-,,1,Philipp Lahm
-04/05,Bundesliga,VfB Stuttgart,1,-,-,-,-,-,-,-,,1,Philipp Lahm
-03/04,Bundesliga,VfB Stuttgart,-,-,1,-,-,-,-,-,,1,Philipp Lahm
-02/03,Regionalliga Süd,FC Bayern Munich II,-,-,-,-,-,-,1,-,,1,Philipp Lahm
-01/02,Regionalliga Süd,FC Bayern Munich II,1,-,-,-,-,1,-,-,,2,Philipp Lahm
 21/22,LaLiga,FC Barcelona,-,-,-,-,1,-,-,-,,1,Dani Alves
 2021,Paulistão A1 - Primeira Fase,São Paulo Futebol Clube,-,-,1,-,-,-,-,-,,1,Dani Alves
 2020,Copa Sudamericana,São Paulo Futebol Clube,-,1,-,-,-,-,-,-,,1,Dani Alves
@@ -1758,12 +1269,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,LaLiga,FC Barcelona,-,-,2,-,2,1,-,-,,5,Dani Alves
 07/08,LaLiga,Sevilla FC,-,-,-,-,-,1,1,-,,2,Dani Alves
 07/08,Champions League,Sevilla FC,1,-,-,-,-,-,1,-,,2,Dani Alves
-06/07,LaLiga,Sevilla FC,-,1,-,-,-,2,-,-,,3,Dani Alves
-06/07,UEFA Cup,Sevilla FC,1,-,-,-,1,-,-,-,,2,Dani Alves
-05/06,LaLiga,Sevilla FC,-,1,1,-,-,-,1,-,,3,Dani Alves
-04/05,LaLiga,Sevilla FC,1,-,-,-,-,-,-,1,,2,Dani Alves
-03/04,Copa del Rey,Sevilla FC,-,-,-,-,1,-,-,-,,1,Dani Alves
-03/04,LaLiga,Sevilla FC,1,-,-,-,-,-,-,-,,1,Dani Alves
 2023,Série A,Grêmio Foot-Ball Porto Alegrense,1,2,1,-,5,7,1,-,-,17,Luis Suárez Díaz
 2023,Copa do Brasil,Grêmio Foot-Ball Porto Alegrense,-,-,-,-,1,-,1,-,-,2,Luis Suárez Díaz
 2023,Gauchão - Fase Final,Grêmio Foot-Ball Porto Alegrense,1,-,-,-,-,1,-,-,-,2,Luis Suárez Díaz
@@ -1819,10 +1324,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Eredivisie,Ajax Amsterdam,1,2,8,-,3,2,1,-,-,17,Luis Suárez Díaz
 07/08,KNVB beker,Ajax Amsterdam,-,-,-,-,-,1,1,-,-,2,Luis Suárez Díaz
 07/08,Champions League Qu.,Ajax Amsterdam,-,-,1,-,-,-,-,-,-,1,Luis Suárez Díaz
-06/07,Play-Offs Conference League,FC Groningen,1,-,-,-,1,-,1,-,-,3,Luis Suárez Díaz
-06/07,Eredivisie,FC Groningen,-,-,2,-,2,3,3,-,-,10,Luis Suárez Díaz
-06/07,KNVB beker,FC Groningen,-,-,-,-,1,-,-,-,-,1,Luis Suárez Díaz
-06/07,UEFA Cup,FC Groningen,-,-,-,-,-,-,-,1,-,1,Luis Suárez Díaz
 23/24,AFC Champions League,Al-Hilal SFC,-,-,-,-,1,-,-,-,-,1,Neymar
 22/23,Ligue 1,Paris Saint-Germain,2,2,3,1,3,2,-,-,-,13,Neymar
 22/23,Coupe de France,Paris Saint-Germain,-,-,1,-,-,-,-,-,-,1,Neymar
@@ -1870,8 +1371,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 2009,Série A,Santos FC,-,-,1,-,1,5,3,-,-,10,Neymar
 11/12,Copa del Rey,FC Barcelona,-,-,-,-,-,-,1,-,,1,Éric Abidal
 10/11,Copa del Rey,FC Barcelona,-,-,-,-,-,1,-,-,,1,Éric Abidal
-06/07,Coupe de la Ligue,Olympique Lyon,-,1,-,-,-,-,-,-,,1,Éric Abidal
-04/05,Coupe de la Ligue,Olympique Lyon,-,-,-,-,-,-,1,-,,1,Éric Abidal
 23/24,Club World Cup,Al-Ittihad Club,-,-,1,-,-,-,-,-,-,1,Karim Benzema
 23/24,Saudi Pro League,Al-Ittihad Club,-,4,2,-,-,3,-,-,-,9,Karim Benzema
 23/24,King's Cup,Al-Ittihad Club,-,-,-,-,-,-,-,1,-,1,Karim Benzema
@@ -1929,12 +1428,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Coupe de France,Olympique Lyon,1,-,2,-,1,-,1,1,-,6,Karim Benzema
 07/08,Champions League,Olympique Lyon,-,-,-,-,1,-,3,-,-,4,Karim Benzema
 07/08,Coupe de la Ligue,Olympique Lyon,-,-,-,-,-,-,1,-,-,1,Karim Benzema
-06/07,Ligue 1,Olympique Lyon,1,-,-,-,1,1,1,1,-,5,Karim Benzema
-06/07,Champions League,Olympique Lyon,1,-,-,-,-,-,1,-,-,2,Karim Benzema
-06/07,Trophée des Champions,Olympique Lyon,-,-,-,-,-,1,-,-,-,1,Karim Benzema
-05/06,Ligue 1,Olympique Lyon,-,-,-,-,-,-,1,-,-,1,Karim Benzema
-05/06,Coupe de France,Olympique Lyon,-,2,-,-,-,-,-,-,-,2,Karim Benzema
-05/06,Champions League,Olympique Lyon,-,-,1,-,-,-,-,-,-,1,Karim Benzema
 23/24,Süper Lig,Adana Demirspor,-,1,-,-,-,-,1,-,,2,Nani
 2021,MLS,Orlando City SC,2,1,1,-,2,-,4,-,,10,Nani
 2020,MLS Cup Playoffs,Orlando City SC,1,-,-,-,-,-,-,-,,1,Nani
@@ -1968,9 +1461,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Premier League,Manchester United,-,-,-,-,-,-,1,-,,1,Nani
 07/08,Premier League,Manchester United,1,-,-,-,-,1,1,-,,3,Nani
 07/08,FA Cup,Manchester United,-,-,1,-,-,-,-,-,,1,Nani
-06/07,Liga Portugal,Sporting CP,1,1,1,-,1,1,-,-,,5,Nani
-06/07,Champions League,Sporting CP,-,-,-,-,1,-,-,-,,1,Nani
-05/06,Liga Portugal,Sporting CP,1,2,-,-,-,-,-,1,,4,Nani
 21/22,Europa League,FC Barcelona,-,-,1,-,-,-,-,-,,1,Gerard Piqué
 21/22,Champions League,FC Barcelona,-,-,1,-,-,-,-,-,,1,Gerard Piqué
 21/22,LaLiga,FC Barcelona,-,1,-,-,-,-,-,-,,1,Gerard Piqué
@@ -2004,8 +1494,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Copa del Rey,FC Barcelona,-,-,-,-,1,-,-,-,,1,Gerard Piqué
 08/09,Champions League,FC Barcelona,-,1,-,-,-,-,-,-,,1,Gerard Piqué
 07/08,Champions League,Manchester United,-,-,2,-,-,-,-,-,,2,Gerard Piqué
-06/07,Copa del Rey,Real Zaragoza,-,-,-,-,-,-,1,-,,1,Gerard Piqué
-06/07,LaLiga,Real Zaragoza,-,-,-,-,-,1,1,-,,2,Gerard Piqué
 23/24,Copa del Rey,Rayo Vallecano,2,-,-,-,-,-,1,-,,3,Radamel Falcao
 23/24,LaLiga,Rayo Vallecano,-,-,-,-,-,-,-,1,,1,Radamel Falcao
 22/23,LaLiga,Rayo Vallecano,-,-,-,-,-,-,1,1,,2,Radamel Falcao
@@ -2049,10 +1537,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Torneo Final,CA River Plate,1,1,-,-,1,1,1,1,,6,Radamel Falcao
 2008,Libertadores,CA River Plate,1,2,1,-,-,-,-,-,,4,Radamel Falcao
 07/08,Torneo Inicial,CA River Plate,-,1,-,-,1,-,1,2,,5,Radamel Falcao
-2007,Copa Sudamericana,CA River Plate,-,1,1,-,-,1,1,-,,4,Radamel Falcao
-06/07,Torneo Final,CA River Plate,1,-,-,-,1,-,-,-,,2,Radamel Falcao
-06/07,Torneo Inicial,CA River Plate,-,-,-,-,-,1,-,-,,1,Radamel Falcao
-05/06,Torneo Inicial,CA River Plate,1,-,1,-,1,2,2,-,,7,Radamel Falcao
 2016,MLS,New York City FC,-,-,-,-,1,-,-,-,-,1,Andrea Pirlo
 14/15,Serie A,Juventus FC,-,-,2,-,-,1,-,1,-,4,Andrea Pirlo
 14/15,Champions League,Juventus FC,-,1,-,-,-,-,-,-,-,1,Andrea Pirlo
@@ -2066,18 +1550,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,UEFA Cup,AC Milan,-,1,-,-,-,-,-,-,-,1,Andrea Pirlo
 07/08,Serie A,AC Milan,-,1,-,-,-,1,1,-,-,3,Andrea Pirlo
 07/08,Champions League,AC Milan,2,-,-,-,-,-,-,-,-,2,Andrea Pirlo
-06/07,Serie A,AC Milan,1,-,-,-,-,-,1,-,-,2,Andrea Pirlo
-06/07,Champions League,AC Milan,-,-,1,-,-,-,-,-,-,1,Andrea Pirlo
-05/06,Serie A,AC Milan,1,-,2,-,-,-,1,-,-,4,Andrea Pirlo
-05/06,Champions League,AC Milan,-,-,1,-,-,-,-,-,-,1,Andrea Pirlo
-04/05,Serie A,AC Milan,-,1,-,-,-,1,1,1,-,4,Andrea Pirlo
-04/05,Champions League,AC Milan,-,-,-,-,-,-,-,1,-,1,Andrea Pirlo
-03/04,Serie A,AC Milan,-,1,1,-,-,1,3,-,-,6,Andrea Pirlo
-03/04,Champions League,AC Milan,-,-,-,-,1,-,-,-,-,1,Andrea Pirlo
-03/04,Supercoppa Italiana,AC Milan,-,-,-,-,-,-,-,-,1,1,Andrea Pirlo
-02/03,Serie A,Milan AC,-,2,1,-,2,2,2,-,-,9,Andrea Pirlo
-01/02,Serie A,Milan AC,-,-,-,-,-,-,2,-,-,2,Andrea Pirlo
-99/00,Serie A,Reggina Calcio,2,2,1,-,1,-,-,-,-,6,Andrea Pirlo
 97/98,Serie A,Brescia Calcio,1,-,1,-,-,-,2,-,-,4,Andrea Pirlo
 96/97,Serie B,Brescia Calcio,1,-,-,-,-,-,1,-,-,2,Andrea Pirlo
 18/19,Eredivisie,Feyenoord Rotterdam,1,2,4,-,3,4,2,-,-,16,Robin van Persie
@@ -2113,19 +1585,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,FA Cup,Arsenal FC,-,-,-,-,1,1,2,-,-,4,Robin van Persie
 07/08,Premier League,Arsenal FC,2,1,1,-,-,1,2,-,-,7,Robin van Persie
 07/08,Champions League,Arsenal FC,-,-,-,-,1,-,1,-,-,2,Robin van Persie
-06/07,Premier League,Arsenal FC,-,-,2,-,2,1,6,-,-,11,Robin van Persie
-06/07,Champions League,Arsenal FC,-,-,-,-,1,-,-,-,-,1,Robin van Persie
-06/07,Champions League Qu.,Arsenal FC,-,-,-,-,-,1,-,-,-,1,Robin van Persie
-05/06,Premier League,Arsenal FC,2,-,-,-,-,1,2,-,-,5,Robin van Persie
-05/06,EFL Cup,Arsenal FC,-,-,1,-,-,1,1,-,1,4,Robin van Persie
-05/06,Champions League,Arsenal FC,-,-,-,-,-,-,2,-,-,2,Robin van Persie
-04/05,Premier League,Arsenal FC,1,-,1,-,-,2,1,-,-,5,Robin van Persie
-04/05,FA Cup,Arsenal FC,-,-,-,-,-,1,2,-,-,3,Robin van Persie
-04/05,Champions League,Arsenal FC,-,-,-,-,-,-,1,-,-,1,Robin van Persie
-04/05,EFL Cup,Arsenal FC,-,-,-,-,-,-,1,-,-,1,Robin van Persie
-03/04,Eredivisie,Feyenoord Rotterdam,1,2,1,-,1,-,1,-,-,6,Robin van Persie
-02/03,Eredivisie,Feyenoord Rotterdam,3,2,1,-,1,-,1,-,-,8,Robin van Persie
-02/03,KNVB beker,Feyenoord Rotterdam,-,-,1,-,3,3,-,-,-,7,Robin van Persie
 21/22,LaLiga,FC Barcelona,-,1,-,-,1,-,-,-,,2,Sergio Busquets
 21/22,Europa League,FC Barcelona,-,-,-,-,-,-,-,1,,1,Sergio Busquets
 19/20,LaLiga,FC Barcelona,-,-,-,1,-,-,1,-,,2,Sergio Busquets
@@ -2178,7 +1637,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Premier League,Tottenham Hotspur,1,-,1,-,1,-,-,-,-,3,Gareth Bale
 07/08,EFL Cup,Tottenham Hotspur,-,-,-,-,-,1,-,-,-,1,Gareth Bale
 07/08,Premier League,Tottenham Hotspur,1,-,-,-,-,1,-,-,-,2,Gareth Bale
-06/07,Championship,Southampton FC,-,1,1,-,-,2,1,-,-,5,Gareth Bale
 23/24,LaLiga,FC Barcelona,-,1,1,-,1,1,4,-,-,8,Robert Lewandowski
 23/24,Champions League,FC Barcelona,-,1,-,-,-,-,-,-,-,1,Robert Lewandowski
 22/23,LaLiga,FC Barcelona,2,4,6,1,1,4,4,1,-,23,Robert Lewandowski
@@ -2284,7 +1742,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Serie A,US Palermo,1,-,2,1,5,2,2,1,-,14,Edinson Cavani
 08/09,Italy Cup,US Palermo,-,-,-,-,-,-,1,-,-,1,Edinson Cavani
 07/08,Serie A,US Palermo,2,1,1,-,-,1,-,-,-,5,Edinson Cavani
-06/07,Serie A,US Palermo,-,-,-,-,1,1,-,-,-,2,Edinson Cavani
 23/24,Premier League,Chelsea FC,-,1,-,-,-,-,-,-,-,1,Thiago Silva
 21/22,Premier League,Chelsea FC,-,1,-,-,2,-,-,-,-,3,Thiago Silva
 20/21,Premier League,Chelsea FC,1,-,-,-,-,-,1,-,-,2,Thiago Silva
@@ -2305,8 +1762,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Serie A,AC Milan,-,1,1,-,-,-,-,-,-,2,Thiago Silva
 2008,Série A,Fluminense Football Club,-,-,1,-,-,-,-,-,-,1,Thiago Silva
 2008,Libertadores,Fluminense Football Club,2,-,-,-,1,-,-,-,-,3,Thiago Silva
-2007,Série A,Fluminense Football Club,1,-,1,-,1,2,-,-,-,5,Thiago Silva
-2004,Série A,Esporte Clube Juventude,-,-,1,-,1,1,-,-,-,3,Thiago Silva
 22/23,Champions League,Real Madrid,-,-,-,-,-,-,1,-,-,1,Eden Hazard
 21/22,Copa del Rey,Real Madrid,-,-,-,-,-,-,-,-,1,1,Eden Hazard
 20/21,LaLiga,Real Madrid,-,-,1,1,-,-,-,1,-,3,Eden Hazard
@@ -2406,7 +1861,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,DFB-Pokal,Bayern Munich,-,-,-,-,-,-,1,-,,1,Toni Kroos
 07/08,Regionalliga Süd,FC Bayern Munich II,-,1,-,-,-,1,1,-,,3,Toni Kroos
 07/08,UEFA Cup,Bayern Munich,-,-,-,-,-,-,-,1,,1,Toni Kroos
-06/07,U19-Bundesliga S/SW,FC Bayern Munich U19 ,1,-,1,-,1,3,1,-,,7,Toni Kroos
 23/24,Champions League,SL Benfica,-,-,1,-,-,-,-,-,,1,Ángel Di María
 23/24,Allianz Cup,SL Benfica,-,1,-,-,-,-,-,-,,1,Ángel Di María
 23/24,Liga Portugal,SL Benfica,-,2,2,-,-,1,-,-,,5,Ángel Di María
@@ -2455,8 +1909,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Allianz Cup,SL Benfica,-,-,-,-,-,-,1,-,,1,Ángel Di María
 08/09,UEFA Cup,SL Benfica,-,-,-,-,1,-,-,-,,1,Ángel Di María
 07/08,UEFA Cup,SL Benfica,-,-,-,-,-,-,-,1,,1,Ángel Di María
-06/07,Torneo Final,CA Rosario Central,-,1,3,-,-,-,1,-,,5,Ángel Di María
-06/07,Torneo Inicial,CA Rosario Central,-,-,-,-,1,-,-,-,,1,Ángel Di María
 2023,Série A,Botafogo de Futebol e Regatas,2,-,-,-,1,-,-,-,,3,Diego Costa
 22/23,Premier League,Wolverhampton Wanderers,-,1,-,-,-,-,-,-,,1,Diego Costa
 2021,Série A,Clube Atlético Mineiro,1,-,1,-,-,-,2,-,,4,Diego Costa
@@ -2490,8 +1942,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Copa del Rey,Real Valladolid CF,-,-,-,-,-,-,1,-,,1,Diego Costa
 08/09,LaLiga2,Albacete Balompié,2,2,-,-,1,1,3,-,,9,Diego Costa
 07/08,LaLiga2,Celta de Vigo,2,-,-,-,1,-,3,-,,6,Diego Costa
-06/07,UEFA Cup,SC Braga,-,-,-,-,-,-,1,-,,1,Diego Costa
-06/07,Liga Sabseg,FC Penafiel,-,-,2,-,1,1,1,-,,5,Diego Costa
 23/24,DFB-Pokal,Eintracht Frankfurt,-,-,-,-,1,-,-,-,,1,Mario Götze
 22/23,Bundesliga,Eintracht Frankfurt,2,-,-,-,1,-,-,-,,3,Mario Götze
 21/22,Eredivisie,PSV Eindhoven,1,-,-,-,2,1,-,-,,4,Mario Götze
@@ -2533,7 +1983,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 16/17,LaLiga,FC Barcelona,-,-,-,-,-,1,-,-,,1,Javier Mascherano
 09/10,Europa League,Liverpool FC,-,1,-,-,-,-,-,-,,1,Javier Mascherano
 07/08,Premier League,Liverpool FC,-,1,-,-,-,-,-,-,,1,Javier Mascherano
-2005,Libertadores,CA River Plate,-,1,-,-,-,-,-,-,,1,Javier Mascherano
 21/22,Premier League,Manchester United,-,1,-,-,-,-,-,-,,1,Paul Pogba
 20/21,Europa League,Manchester United,-,-,-,-,1,1,-,-,,2,Paul Pogba
 20/21,Premier League,Manchester United,-,-,-,-,-,3,-,-,,3,Paul Pogba
@@ -2598,8 +2047,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Serie A,Udinese Calcio,1,-,-,-,1,-,-,1,-,3,Alexis Sánchez
 07/08,Torneo Final,CA River Plate,1,-,-,-,-,-,1,-,-,2,Alexis Sánchez
 07/08,Torneo Inicial,CA River Plate,-,-,-,-,1,-,1,-,-,2,Alexis Sánchez
-2007,Libertadores,CSD Colo Colo,-,1,-,-,1,-,1,-,-,3,Alexis Sánchez
-2006,Copa Sudamericana,CSD Colo Colo,-,-,-,-,-,1,-,-,-,1,Alexis Sánchez
 2022,Série A,CR Flamengo,-,-,1,-,1,-,-,-,-,2,Arturo Vidal
 21/22,Champions League,Inter Milan,-,-,-,-,1,-,-,-,-,1,Arturo Vidal
 21/22,Serie A,Inter Milan,-,-,-,-,-,1,-,-,-,1,Arturo Vidal
@@ -2633,7 +2080,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,DFB-Pokal,Bayer 04 Leverkusen,-,-,-,-,-,1,1,-,1,3,Arturo Vidal
 08/09,Bundesliga,Bayer 04 Leverkusen,1,-,-,-,-,2,-,-,-,3,Arturo Vidal
 07/08,Bundesliga,Bayer 04 Leverkusen,-,-,-,-,-,1,-,-,-,1,Arturo Vidal
-2006,Copa Sudamericana,CSD Colo Colo,-,1,1,1,-,-,-,-,-,3,Arturo Vidal
 22/23,Champions League,Manchester City,-,-,-,-,-,1,-,1,,2,Kevin De Bruyne
 22/23,Premier League,Manchester City,1,1,1,-,3,1,-,-,,7,Kevin De Bruyne
 22/23,FA Cup,Manchester City,-,-,-,-,-,-,1,-,,1,Kevin De Bruyne
@@ -2711,8 +2157,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,UEFA Cup,FC Schalke 04,-,-,1,-,-,-,-,-,,1,Ivan Rakitić
 07/08,Bundesliga,FC Schalke 04,-,-,1,-,-,1,1,-,,3,Ivan Rakitić
 07/08,DFB-Pokal,FC Schalke 04,-,-,-,-,-,1,-,-,,1,Ivan Rakitić
-06/07,Super League,FC Basel 1893,2,2,-,-,2,4,1,-,,11,Ivan Rakitić
-05/06,1. Liga Gr. 2 (- 11/12),FC Basel 1893 U21,1,-,1,-,2,2,3,-,,9,Ivan Rakitić
 23/24,Champions League,Atlético de Madrid,2,1,-,1,1,-,-,-,-,5,Antoine Griezmann
 23/24,LaLiga,Atlético de Madrid,1,3,-,-,-,3,2,-,-,9,Antoine Griezmann
 22/23,LaLiga,Atlético de Madrid,2,3,3,-,3,4,-,-,-,15,Antoine Griezmann
@@ -2828,12 +2272,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 11/12,LaLiga,Real Madrid,-,-,1,-,-,-,-,-,,1,Pepe
 10/11,LaLiga,Real Madrid,-,-,-,-,-,1,-,-,,1,Pepe
 09/10,LaLiga,Real Madrid,-,-,-,-,1,-,-,-,,1,Pepe
-06/07,Liga Portugal,FC Porto,-,1,1,-,-,1,1,-,,4,Pepe
-05/06,Liga Portugal,FC Porto,-,-,1,-,-,-,-,-,,1,Pepe
-05/06,Champions League,FC Porto,-,-,-,-,1,1,-,-,,2,Pepe
-04/05,Liga Portugal,FC Porto,-,-,-,-,-,1,-,-,,1,Pepe
-03/04,Liga Portugal,CS Marítimo,-,1,-,-,-,-,-,-,,1,Pepe
-02/03,Liga Portugal,CS Marítimo,-,-,-,-,1,-,1,-,,2,Pepe
 23/24,Ligue 1,Olympique Marseille,2,1,1,-,1,-,-,-,-,5,Pierre-Emerick Aubameyang
 23/24,Europa League,Olympique Marseille,1,-,1,-,1,-,1,1,-,5,Pierre-Emerick Aubameyang
 23/24,Champions League Qu.,Olympique Marseille,1,-,-,1,-,-,-,-,-,2,Pierre-Emerick Aubameyang
@@ -2882,7 +2320,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Ligue 2,Dijon FCO,2,2,-,-,-,2,2,-,-,8,Pierre-Emerick Aubameyang
 07/08,Primavera B,Milan Primavera,1,1,-,-,2,-,-,-,-,4,Pierre-Emerick Aubameyang
 07/08,Viareggio Cup,Milan Primavera,-,-,-,-,1,1,-,-,-,2,Pierre-Emerick Aubameyang
-06/07,Primavera B,Milan Primavera,-,-,2,-,-,1,4,1,-,8,Pierre-Emerick Aubameyang
 22/23,LaLiga,Real Madrid,1,-,2,-,-,-,1,-,,4,Luka Modrić
 22/23,Champions League,Real Madrid,1,-,-,-,1,-,-,-,,2,Luka Modrić
 21/22,LaLiga,Real Madrid,-,-,1,-,-,-,1,-,,2,Luka Modrić
@@ -2915,9 +2352,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,SuperSport HNL,GNK Dinamo Zagreb,3,1,4,-,2,1,2,-,,13,Luka Modrić
 07/08,UEFA Cup,GNK Dinamo Zagreb,-,-,1,-,-,-,-,-,,1,Luka Modrić
 07/08,Champions League Qu.,GNK Dinamo Zagreb,-,-,1,-,1,-,-,-,,2,Luka Modrić
-06/07,SuperSport HNL,GNK Dinamo Zagreb,2,1,-,-,1,1,1,-,,6,Luka Modrić
-2006,SuperSport Super Cup,GNK Dinamo Zagreb,-,-,1,-,-,-,-,-,,1,Luka Modrić
-05/06,SuperSport HNL,GNK Dinamo Zagreb,1,1,-,-,2,3,1,-,,8,Luka Modrić
 2023,Série A,Clube de Regatas Vasco da Gama,-,-,-,-,1,-,-,1,,2,Dimitri Payet
 22/23,Ligue 1,Olympique Marseille,1,-,-,-,1,1,1,-,,4,Dimitri Payet
 21/22,Ligue 1,Olympique Marseille,-,1,5,2,1,1,1,1,,12,Dimitri Payet
@@ -2949,8 +2383,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Ligue 1,AS Saint-Étienne,-,-,-,-,-,1,-,1,,2,Dimitri Payet
 08/09,Ligue 1,AS Saint-Étienne,-,2,1,-,-,1,-,-,,4,Dimitri Payet
 08/09,UEFA Cup,AS Saint-Étienne,1,-,1,-,-,1,-,-,,3,Dimitri Payet
-06/07,Ligue 1,FC Nantes,-,1,2,-,-,1,-,-,,4,Dimitri Payet
-05/06,Ligue 1,FC Nantes,-,-,-,-,-,-,-,1,,1,Dimitri Payet
 23/24,Serie A,AS Roma,1,-,-,-,1,-,2,-,,4,Paulo Dybala
 22/23,Serie A,AS Roma,1,3,3,-,2,-,2,1,,12,Paulo Dybala
 22/23,Europa League,AS Roma,-,-,3,-,1,-,1,-,,5,Paulo Dybala
@@ -3003,7 +2435,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 10/11,Europa League,Atlético de Madrid,-,1,-,-,-,-,-,-,,1,Diego Godín
 09/10,LaLiga,Villarreal CF,-,2,-,-,-,1,-,-,,3,Diego Godín
 07/08,LaLiga,Villarreal CF,-,-,1,-,-,-,-,-,,1,Diego Godín
-2007,Libertadores,Club Nacional,-,1,1,-,-,-,-,-,,2,Diego Godín
 2022,MLS,Inter Miami CF,1,4,2,1,1,2,4,1,-,16,Gonzalo Higuaín
 2021,MLS,Inter Miami CF,-,1,2,-,3,5,1,-,-,12,Gonzalo Higuaín
 2020,MLS,Inter Miami CF,-,-,-,-,-,-,1,-,-,1,Gonzalo Higuaín
@@ -3046,10 +2477,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Supercopa,Real Madrid,-,-,-,-,-,-,1,-,-,1,Gonzalo Higuaín
 07/08,LaLiga,Real Madrid,-,-,1,-,-,2,3,1,1,8,Gonzalo Higuaín
 07/08,Copa del Rey,Real Madrid,-,1,-,-,-,-,-,-,-,1,Gonzalo Higuaín
-06/07,LaLiga,Real Madrid,-,-,-,-,-,1,1,-,-,2,Gonzalo Higuaín
-06/07,Torneo Inicial,CA River Plate,-,1,1,-,5,1,-,-,-,8,Gonzalo Higuaín
-2006,Libertadores,CA River Plate,-,-,-,-,-,1,1,-,-,2,Gonzalo Higuaín
-05/06,Torneo Final,CA River Plate,-,3,1,-,1,-,-,-,-,5,Gonzalo Higuaín
 21/22,LaLiga,Atlético de Madrid,-,-,-,-,1,-,-,-,-,1,Koke
 20/21,LaLiga,Atlético de Madrid,-,-,-,-,-,-,1,-,-,1,Koke
 19/20,LaLiga,Atlético de Madrid,-,1,-,-,-,1,1,1,-,4,Koke
@@ -3211,7 +2638,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 10/11,Champions League,Real Madrid,-,-,1,-,-,1,-,-,-,2,Marcelo
 09/10,LaLiga,Real Madrid,-,1,1,-,1,-,1,-,-,4,Marcelo
 08/09,LaLiga,Real Madrid,-,1,-,-,2,-,-,1,-,4,Marcelo
-2006,Série A,Fluminense Football Club,1,1,-,-,-,1,1,-,-,4,Marcelo
 23/24,Bundesliga,1.FC Union Berlin,-,-,1,-,-,-,-,-,,1,Leonardo Bonucci
 22/23,Champions League,Juventus FC,-,-,1,-,-,-,-,-,,1,Leonardo Bonucci
 22/23,Serie A,Juventus FC,-,-,-,-,-,-,-,1,,1,Leonardo Bonucci
@@ -3300,9 +2726,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 09/10,Bundesliga,Borussia Dortmund,1,2,-,1,-,1,-,-,,5,Mats Hummels
 08/09,Bundesliga,Borussia Dortmund,-,-,-,-,-,1,-,-,,1,Mats Hummels
 07/08,Regionalliga Süd,FC Bayern Munich II,-,1,-,-,1,1,-,-,,3,Mats Hummels
-06/07,Regionalliga Süd,FC Bayern Munich II,-,-,1,-,1,-,-,-,,2,Mats Hummels
-05/06,U19-Bundesliga S/SW,FC Bayern Munich U19 ,-,1,1,-,1,3,1,-,,7,Mats Hummels
-04/05,U19-Bundesliga S/SW,FC Bayern Munich U19 ,-,1,-,-,-,-,-,-,,1,Mats Hummels
 23/24,AFC Champions League,Al-Duhail SC,1,-,-,-,-,-,1,-,,2,Philippe Coutinho
 23/24,Stars League,Al-Duhail SC,-,-,-,1,-,-,-,-,,1,Philippe Coutinho
 22/23,Premier League,Aston Villa,-,-,1,-,-,-,-,-,,1,Philippe Coutinho
@@ -3380,7 +2803,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,KNVB beker,AGOVV Apeldoorn,-,-,1,-,-,-,-,-,,1,Dries Mertens
 07/08,Keuken Kampioen Divisie,AGOVV Apeldoorn,3,3,1,-,3,2,3,-,,15,Dries Mertens
 07/08,KNVB beker,AGOVV Apeldoorn,1,-,-,-,-,-,-,-,,1,Dries Mertens
-06/07,Keuken Kampioen Divisie,AGOVV Apeldoorn,-,2,-,-,-,-,-,-,,2,Dries Mertens
 23/24,Premier League,Liverpool FC,-,1,3,1,1,2,2,1,,11,Mohamed Salah
 23/24,Europa League,Liverpool FC,-,-,-,-,1,-,1,1,,3,Mohamed Salah
 22/23,Premier League,Liverpool FC,5,1,5,-,-,3,5,-,,19,Mohamed Salah
@@ -3501,7 +2923,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,SuperSport HNL,GNK Dinamo Zagreb,5,3,1,-,-,2,1,-,-,12,Mario Mandžukić
 07/08,UEFA Cup,GNK Dinamo Zagreb,-,-,-,-,-,-,-,-,2,2,Mario Mandžukić
 07/08,Champions League Qu.,GNK Dinamo Zagreb,-,-,-,-,-,-,-,-,1,1,Mario Mandžukić
-06/07,SuperSport HNL,NK Zagreb,1,1,2,-,2,1,3,1,-,11,Mario Mandžukić
 23/24,Premier League,Liverpool FC,-,-,1,-,-,-,-,-,,1,Virgil van Dijk
 22/23,Premier League,Liverpool FC,-,-,2,-,-,1,-,-,,3,Virgil van Dijk
 21/22,Premier League,Liverpool FC,1,-,-,-,1,-,-,1,,3,Virgil van Dijk
@@ -3914,10 +3335,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,Serie A,Juventus FC,-,-,2,-,-,1,1,-,,4,Giorgio Chiellini
 08/09,Champions League Qu.,Juventus FC,-,-,1,-,-,-,-,-,,1,Giorgio Chiellini
 07/08,Serie A,Juventus FC,1,-,-,-,-,-,2,-,,3,Giorgio Chiellini
-06/07,Serie B,Juventus FC,-,-,2,-,1,-,-,-,,3,Giorgio Chiellini
-06/07,Italy Cup,Juventus FC,-,1,-,-,-,-,-,-,,1,Giorgio Chiellini
-04/05,Serie A,ACF Fiorentina,-,-,1,-,1,-,1,-,,3,Giorgio Chiellini
-03/04,Serie B,AS Livorno,1,2,-,-,1,-,-,-,,4,Giorgio Chiellini
 2023,Série A,Grêmio Foot-Ball Porto Alegrense,1,2,1,-,5,7,1,-,-,17,Luis Suárez
 2023,Copa do Brasil,Grêmio Foot-Ball Porto Alegrense,-,-,-,-,1,-,1,-,-,2,Luis Suárez
 2023,Gauchão - Fase Final,Grêmio Foot-Ball Porto Alegrense,1,-,-,-,-,1,-,-,-,2,Luis Suárez
@@ -3973,10 +3390,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 07/08,Eredivisie,Ajax Amsterdam,1,2,8,-,3,2,1,-,-,17,Luis Suárez
 07/08,KNVB beker,Ajax Amsterdam,-,-,-,-,-,1,1,-,-,2,Luis Suárez
 07/08,Champions League Qu.,Ajax Amsterdam,-,-,1,-,-,-,-,-,-,1,Luis Suárez
-06/07,Play-Offs Conference League,FC Groningen,1,-,-,-,1,-,1,-,-,3,Luis Suárez
-06/07,Eredivisie,FC Groningen,-,-,2,-,2,3,3,-,-,10,Luis Suárez
-06/07,KNVB beker,FC Groningen,-,-,-,-,1,-,-,-,-,1,Luis Suárez
-06/07,UEFA Cup,FC Groningen,-,-,-,-,-,-,-,1,-,1,Luis Suárez
 20/21,Europa League,AC Milan,-,-,-,-,-,-,-,1,,1,Simon Kjær
 17/18,LaLiga,Sevilla FC,-,-,1,-,-,-,1,-,,2,Simon Kjær
 17/18,Champions League,Sevilla FC,-,1,-,-,-,-,-,-,,1,Simon Kjær
@@ -4497,7 +3910,6 @@ Season,Competition,Club,1 - 15,16 - 30,31 - 45,45+,46 - 60,61 - 75,76 - 90,90+,E
 08/09,RL West,VfL Bochum II,-,-,-,-,-,1,-,-,-,1,İlkay Gündoğan
 08/09,U19-Bundesliga West,VfL Bochum U19,1,1,1,-,2,2,3,-,-,10,İlkay Gündoğan
 07/08,U19-Bundesliga West,VfL Bochum U19,1,2,3,-,2,3,3,-,-,14,İlkay Gündoğan
-06/07,U19-Bundesliga West,VfL Bochum U19,-,-,-,-,1,1,-,-,-,2,İlkay Gündoğan
 23/24,Serie A,SSC Napoli,-,-,2,-,1,1,-,-,,4,Khvicha Kvaratskhelia
 22/23,Serie A,SSC Napoli,1,1,6,-,2,2,-,-,,12,Khvicha Kvaratskhelia
 22/23,Champions League,SSC Napoli,-,-,-,-,-,2,-,-,,2,Khvicha Kvaratskhelia
