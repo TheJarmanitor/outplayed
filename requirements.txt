@@ -5,3 +5,5 @@ requests
 beautifulsoup4
 statsmodels
 pymc
+seaborn
+bayesian-bootstrap
