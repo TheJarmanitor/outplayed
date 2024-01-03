@@ -7,3 +7,4 @@ statsmodels
 pymc
 seaborn
 bayesian-bootstrap
+graphviz
